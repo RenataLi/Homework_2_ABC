@@ -11,7 +11,6 @@
 #include <cstring>
 
 #include "container.h"
-using namespace std;
 void errMessage1() {
     printf("incorrect command line!\n","  Waited:\n",
            "     command -f infile outfile01 outfile02\n","  Or:\n",
@@ -67,6 +66,6 @@ int main(int argc, char* argv[]){
     ofst2 << "Buble sorted container : " << "\n";
     c.Out(ofst2);
 
-    printf("Stop");
+    printf("Stop\n");
     return 0;
 }
