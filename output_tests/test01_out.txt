@@ -1,0 +1,10 @@
+Filled container:
+Container contains 8 elements.
+0: It is Truck: lifling capacity = 2300, fuel capasity = 34, fuel consumption = 12. Distance = 2.83333
+1: It is Bus: passenger capacity = 15, fuel capasity = 46, fuel consumption = 10. Distance = 4.6
+2: It is Automobile: max speed = 178, fuel consumption = 16, fuel capasity = 35. Distance = 2.1875
+3: It is Truck: lifling capacity = 4870, fuel capasity = 26, fuel consumption = 10. Distance = 2.6
+4: It is Truck: lifling capacity = 3657, fuel capasity = 34, fuel consumption = 11. Distance = 3.09091
+5: It is Automobile: max speed = 155, fuel consumption = 18, fuel capasity = 29. Distance = 1.61111
+6: It is Automobile: max speed = 189, fuel consumption = 19, fuel capasity = 24. Distance = 1.26316
+7: It is Automobile: max speed = 190, fuel consumption = 15, fuel capasity = 26. Distance = 1.73333

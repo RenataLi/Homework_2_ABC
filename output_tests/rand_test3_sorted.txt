@@ -1,0 +1,1002 @@
+Buble sorted container : 
+Container contains 1000 elements.
+0: It is Automobile: max speed = 51, fuel consumption = 48, fuel capasity = 1. Distance = 0.0208333
+1: It is Automobile: max speed = 111, fuel consumption = 47, fuel capasity = 1. Distance = 0.0212766
+2: It is Automobile: max speed = 196, fuel consumption = 46, fuel capasity = 1. Distance = 0.0217391
+3: It is Automobile: max speed = 71, fuel consumption = 43, fuel capasity = 1. Distance = 0.0232558
+4: It is Bus: passenger capacity = 28, fuel_capasity = 1, fuel_consumption = 39. Distance = 0.025641
+5: It is Automobile: max speed = 180, fuel consumption = 37, fuel capasity = 1. Distance = 0.027027
+6: It is Automobile: max speed = 85, fuel consumption = 37, fuel capasity = 1. Distance = 0.027027
+7: It is Bus: passenger capacity = 1, fuel_capasity = 1, fuel_consumption = 36. Distance = 0.0277778
+8: It is Automobile: max speed = 169, fuel consumption = 36, fuel capasity = 1. Distance = 0.0277778
+9: It is Bus: passenger capacity = 7, fuel_capasity = 1, fuel_consumption = 34. Distance = 0.0294118
+10: It is Bus: passenger capacity = 16, fuel_capasity = 1, fuel_consumption = 31. Distance = 0.0322581
+11: It is Automobile: max speed = 93, fuel consumption = 31, fuel capasity = 1. Distance = 0.0322581
+12: It is Bus: passenger capacity = 13, fuel_capasity = 1, fuel_consumption = 29. Distance = 0.0344828
+13: It is Bus: passenger capacity = 20, fuel_capasity = 1, fuel_consumption = 28. Distance = 0.0357143
+14: It is Bus: passenger capacity = 4, fuel_capasity = 2, fuel_consumption = 50. Distance = 0.04
+15: It is Automobile: max speed = 65, fuel consumption = 50, fuel capasity = 2. Distance = 0.04
+16: It is Automobile: max speed = 110, fuel consumption = 48, fuel capasity = 2. Distance = 0.0416667
+17: It is Bus: passenger capacity = 2, fuel_capasity = 1, fuel_consumption = 22. Distance = 0.0454545
+18: It is Automobile: max speed = 58, fuel consumption = 44, fuel capasity = 2. Distance = 0.0454545
+19: It is Automobile: max speed = 2, fuel consumption = 44, fuel capasity = 2. Distance = 0.0454545
+20: It is Bus: passenger capacity = 28, fuel_capasity = 1, fuel_consumption = 21. Distance = 0.047619
+21: It is Bus: passenger capacity = 2, fuel_capasity = 2, fuel_consumption = 41. Distance = 0.0487805
+22: It is Automobile: max speed = 7, fuel consumption = 20, fuel capasity = 1. Distance = 0.05
+23: It is Truck: lifling_capacity = 4197, fuel_capasity = 1, fuel_consumption = 20. Distance = 0.05
+24: It is Automobile: max speed = 90, fuel consumption = 39, fuel capasity = 2. Distance = 0.0512821
+25: It is Truck: lifling_capacity = 2543, fuel_capasity = 1, fuel_consumption = 19. Distance = 0.0526316
+26: It is Bus: passenger capacity = 26, fuel_capasity = 2, fuel_consumption = 38. Distance = 0.0526316
+27: It is Truck: lifling_capacity = 4007, fuel_capasity = 1, fuel_consumption = 19. Distance = 0.0526316
+28: It is Automobile: max speed = 28, fuel consumption = 37, fuel capasity = 2. Distance = 0.0540541
+29: It is Bus: passenger capacity = 25, fuel_capasity = 1, fuel_consumption = 18. Distance = 0.0555556
+30: It is Bus: passenger capacity = 28, fuel_capasity = 2, fuel_consumption = 36. Distance = 0.0555556
+31: It is Truck: lifling_capacity = 790, fuel_capasity = 1, fuel_consumption = 17. Distance = 0.0588235
+32: It is Automobile: max speed = 138, fuel consumption = 50, fuel capasity = 3. Distance = 0.06
+33: It is Bus: passenger capacity = 4, fuel_capasity = 3, fuel_consumption = 50. Distance = 0.06
+34: It is Automobile: max speed = 27, fuel consumption = 50, fuel capasity = 3. Distance = 0.06
+35: It is Automobile: max speed = 75, fuel consumption = 49, fuel capasity = 3. Distance = 0.0612245
+36: It is Bus: passenger capacity = 19, fuel_capasity = 3, fuel_consumption = 49. Distance = 0.0612245
+37: It is Automobile: max speed = 105, fuel consumption = 48, fuel capasity = 3. Distance = 0.0625
+38: It is Automobile: max speed = 93, fuel consumption = 32, fuel capasity = 2. Distance = 0.0625
+39: It is Bus: passenger capacity = 12, fuel_capasity = 3, fuel_consumption = 48. Distance = 0.0625
+40: It is Truck: lifling_capacity = 4415, fuel_capasity = 1, fuel_consumption = 16. Distance = 0.0625
+41: It is Bus: passenger capacity = 2, fuel_capasity = 1, fuel_consumption = 16. Distance = 0.0625
+42: It is Bus: passenger capacity = 9, fuel_capasity = 3, fuel_consumption = 47. Distance = 0.0638298
+43: It is Bus: passenger capacity = 13, fuel_capasity = 3, fuel_consumption = 47. Distance = 0.0638298
+44: It is Bus: passenger capacity = 30, fuel_capasity = 3, fuel_consumption = 46. Distance = 0.0652174
+45: It is Automobile: max speed = 4, fuel consumption = 46, fuel capasity = 3. Distance = 0.0652174
+46: It is Automobile: max speed = 163, fuel consumption = 46, fuel capasity = 3. Distance = 0.0652174
+47: It is Truck: lifling_capacity = 898, fuel_capasity = 1, fuel_consumption = 15. Distance = 0.0666667
+48: It is Automobile: max speed = 138, fuel consumption = 30, fuel capasity = 2. Distance = 0.0666667
+49: It is Truck: lifling_capacity = 2794, fuel_capasity = 1, fuel_consumption = 15. Distance = 0.0666667
+50: It is Automobile: max speed = 29, fuel consumption = 44, fuel capasity = 3. Distance = 0.0681818
+51: It is Bus: passenger capacity = 8, fuel_capasity = 2, fuel_consumption = 28. Distance = 0.0714286
+52: It is Truck: lifling_capacity = 4266, fuel_capasity = 1, fuel_consumption = 14. Distance = 0.0714286
+53: It is Bus: passenger capacity = 18, fuel_capasity = 2, fuel_consumption = 27. Distance = 0.0740741
+54: It is Automobile: max speed = 123, fuel consumption = 27, fuel capasity = 2. Distance = 0.0740741
+55: It is Bus: passenger capacity = 14, fuel_capasity = 3, fuel_consumption = 40. Distance = 0.075
+56: It is Bus: passenger capacity = 14, fuel_capasity = 2, fuel_consumption = 26. Distance = 0.0769231
+57: It is Automobile: max speed = 173, fuel consumption = 13, fuel capasity = 1. Distance = 0.0769231
+58: It is Automobile: max speed = 79, fuel consumption = 13, fuel capasity = 1. Distance = 0.0769231
+59: It is Automobile: max speed = 68, fuel consumption = 37, fuel capasity = 3. Distance = 0.0810811
+60: It is Bus: passenger capacity = 24, fuel_capasity = 4, fuel_consumption = 49. Distance = 0.0816327
+61: It is Automobile: max speed = 34, fuel consumption = 36, fuel capasity = 3. Distance = 0.0833333
+62: It is Bus: passenger capacity = 25, fuel_capasity = 4, fuel_consumption = 48. Distance = 0.0833333
+63: It is Automobile: max speed = 31, fuel consumption = 36, fuel capasity = 3. Distance = 0.0833333
+64: It is Automobile: max speed = 156, fuel consumption = 47, fuel capasity = 4. Distance = 0.0851064
+65: It is Automobile: max speed = 59, fuel consumption = 35, fuel capasity = 3. Distance = 0.0857143
+66: It is Bus: passenger capacity = 29, fuel_capasity = 4, fuel_consumption = 46. Distance = 0.0869565
+67: It is Bus: passenger capacity = 10, fuel_capasity = 1, fuel_consumption = 11. Distance = 0.0909091
+68: It is Truck: lifling_capacity = 3387, fuel_capasity = 1, fuel_consumption = 11. Distance = 0.0909091
+69: It is Bus: passenger capacity = 20, fuel_capasity = 1, fuel_consumption = 11. Distance = 0.0909091
+70: It is Bus: passenger capacity = 4, fuel_capasity = 2, fuel_consumption = 22. Distance = 0.0909091
+71: It is Automobile: max speed = 46, fuel consumption = 22, fuel capasity = 2. Distance = 0.0909091
+72: It is Bus: passenger capacity = 28, fuel_capasity = 4, fuel_consumption = 44. Distance = 0.0909091
+73: It is Automobile: max speed = 60, fuel consumption = 21, fuel capasity = 2. Distance = 0.0952381
+74: It is Automobile: max speed = 19, fuel consumption = 41, fuel capasity = 4. Distance = 0.097561
+75: It is Truck: lifling_capacity = 968, fuel_capasity = 2, fuel_consumption = 20. Distance = 0.1
+76: It is Truck: lifling_capacity = 2759, fuel_capasity = 1, fuel_consumption = 10. Distance = 0.1
+77: It is Truck: lifling_capacity = 527, fuel_capasity = 2, fuel_consumption = 20. Distance = 0.1
+78: It is Bus: passenger capacity = 25, fuel_capasity = 3, fuel_consumption = 30. Distance = 0.1
+79: It is Truck: lifling_capacity = 4381, fuel_capasity = 1, fuel_consumption = 10. Distance = 0.1
+80: It is Truck: lifling_capacity = 4946, fuel_capasity = 1, fuel_consumption = 10. Distance = 0.1
+81: It is Automobile: max speed = 78, fuel consumption = 40, fuel capasity = 4. Distance = 0.1
+82: It is Truck: lifling_capacity = 1831, fuel_capasity = 1, fuel_consumption = 10. Distance = 0.1
+83: It is Automobile: max speed = 36, fuel consumption = 10, fuel capasity = 1. Distance = 0.1
+84: It is Automobile: max speed = 145, fuel consumption = 49, fuel capasity = 5. Distance = 0.102041
+85: It is Bus: passenger capacity = 17, fuel_capasity = 4, fuel_consumption = 39. Distance = 0.102564
+86: It is Automobile: max speed = 150, fuel consumption = 39, fuel capasity = 4. Distance = 0.102564
+87: It is Bus: passenger capacity = 11, fuel_capasity = 3, fuel_consumption = 29. Distance = 0.103448
+88: It is Bus: passenger capacity = 12, fuel_capasity = 2, fuel_consumption = 19. Distance = 0.105263
+89: It is Automobile: max speed = 74, fuel consumption = 47, fuel capasity = 5. Distance = 0.106383
+90: It is Truck: lifling_capacity = 4575, fuel_capasity = 1, fuel_consumption = 9. Distance = 0.111111
+91: It is Truck: lifling_capacity = 2020, fuel_capasity = 2, fuel_consumption = 18. Distance = 0.111111
+92: It is Bus: passenger capacity = 28, fuel_capasity = 2, fuel_consumption = 18. Distance = 0.111111
+93: It is Automobile: max speed = 63, fuel consumption = 27, fuel capasity = 3. Distance = 0.111111
+94: It is Truck: lifling_capacity = 2071, fuel_capasity = 2, fuel_consumption = 18. Distance = 0.111111
+95: It is Bus: passenger capacity = 16, fuel_capasity = 5, fuel_consumption = 45. Distance = 0.111111
+96: It is Automobile: max speed = 1, fuel consumption = 17, fuel capasity = 2. Distance = 0.117647
+97: It is Automobile: max speed = 80, fuel consumption = 34, fuel capasity = 4. Distance = 0.117647
+98: It is Bus: passenger capacity = 3, fuel_capasity = 4, fuel_consumption = 33. Distance = 0.121212
+99: It is Bus: passenger capacity = 29, fuel_capasity = 5, fuel_consumption = 41. Distance = 0.121951
+100: It is Automobile: max speed = 168, fuel consumption = 49, fuel capasity = 6. Distance = 0.122449
+101: It is Bus: passenger capacity = 4, fuel_capasity = 2, fuel_consumption = 16. Distance = 0.125
+102: It is Automobile: max speed = 103, fuel consumption = 39, fuel capasity = 5. Distance = 0.128205
+103: It is Automobile: max speed = 98, fuel consumption = 23, fuel capasity = 3. Distance = 0.130435
+104: It is Bus: passenger capacity = 22, fuel_capasity = 5, fuel_consumption = 38. Distance = 0.131579
+105: It is Automobile: max speed = 32, fuel consumption = 30, fuel capasity = 4. Distance = 0.133333
+106: It is Truck: lifling_capacity = 2557, fuel_capasity = 2, fuel_consumption = 15. Distance = 0.133333
+107: It is Bus: passenger capacity = 3, fuel_capasity = 7, fuel_consumption = 50. Distance = 0.14
+108: It is Bus: passenger capacity = 20, fuel_capasity = 6, fuel_consumption = 42. Distance = 0.142857
+109: It is Automobile: max speed = 38, fuel consumption = 35, fuel capasity = 5. Distance = 0.142857
+110: It is Automobile: max speed = 95, fuel consumption = 42, fuel capasity = 6. Distance = 0.142857
+111: It is Automobile: max speed = 8, fuel consumption = 42, fuel capasity = 6. Distance = 0.142857
+112: It is Truck: lifling_capacity = 2698, fuel_capasity = 2, fuel_consumption = 14. Distance = 0.142857
+113: It is Truck: lifling_capacity = 4223, fuel_capasity = 2, fuel_consumption = 14. Distance = 0.142857
+114: It is Truck: lifling_capacity = 2527, fuel_capasity = 2, fuel_consumption = 14. Distance = 0.142857
+115: It is Truck: lifling_capacity = 331, fuel_capasity = 2, fuel_consumption = 14. Distance = 0.142857
+116: It is Automobile: max speed = 159, fuel consumption = 48, fuel capasity = 7. Distance = 0.145833
+117: It is Automobile: max speed = 107, fuel consumption = 48, fuel capasity = 7. Distance = 0.145833
+118: It is Bus: passenger capacity = 30, fuel_capasity = 7, fuel_consumption = 48. Distance = 0.145833
+119: It is Bus: passenger capacity = 3, fuel_capasity = 6, fuel_consumption = 41. Distance = 0.146341
+120: It is Bus: passenger capacity = 24, fuel_capasity = 6, fuel_consumption = 41. Distance = 0.146341
+121: It is Automobile: max speed = 158, fuel consumption = 47, fuel capasity = 7. Distance = 0.148936
+122: It is Automobile: max speed = 75, fuel consumption = 47, fuel capasity = 7. Distance = 0.148936
+123: It is Bus: passenger capacity = 4, fuel_capasity = 6, fuel_consumption = 40. Distance = 0.15
+124: It is Truck: lifling_capacity = 2700, fuel_capasity = 3, fuel_consumption = 20. Distance = 0.15
+125: It is Automobile: max speed = 143, fuel consumption = 20, fuel capasity = 3. Distance = 0.15
+126: It is Automobile: max speed = 177, fuel consumption = 33, fuel capasity = 5. Distance = 0.151515
+127: It is Bus: passenger capacity = 4, fuel_capasity = 2, fuel_consumption = 13. Distance = 0.153846
+128: It is Truck: lifling_capacity = 3701, fuel_capasity = 2, fuel_consumption = 13. Distance = 0.153846
+129: It is Truck: lifling_capacity = 781, fuel_capasity = 2, fuel_consumption = 13. Distance = 0.153846
+130: It is Bus: passenger capacity = 22, fuel_capasity = 7, fuel_consumption = 45. Distance = 0.155556
+131: It is Automobile: max speed = 143, fuel consumption = 32, fuel capasity = 5. Distance = 0.15625
+132: It is Automobile: max speed = 192, fuel consumption = 32, fuel capasity = 5. Distance = 0.15625
+133: It is Automobile: max speed = 191, fuel consumption = 19, fuel capasity = 3. Distance = 0.157895
+134: It is Bus: passenger capacity = 10, fuel_capasity = 3, fuel_consumption = 19. Distance = 0.157895
+135: It is Truck: lifling_capacity = 4266, fuel_capasity = 3, fuel_consumption = 19. Distance = 0.157895
+136: It is Automobile: max speed = 137, fuel consumption = 37, fuel capasity = 6. Distance = 0.162162
+137: It is Automobile: max speed = 80, fuel consumption = 43, fuel capasity = 7. Distance = 0.162791
+138: It is Bus: passenger capacity = 29, fuel_capasity = 7, fuel_consumption = 43. Distance = 0.162791
+139: It is Bus: passenger capacity = 18, fuel_capasity = 7, fuel_consumption = 43. Distance = 0.162791
+140: It is Bus: passenger capacity = 5, fuel_capasity = 6, fuel_consumption = 36. Distance = 0.166667
+141: It is Bus: passenger capacity = 26, fuel_capasity = 8, fuel_consumption = 48. Distance = 0.166667
+142: It is Bus: passenger capacity = 24, fuel_capasity = 5, fuel_consumption = 30. Distance = 0.166667
+143: It is Automobile: max speed = 196, fuel consumption = 30, fuel capasity = 5. Distance = 0.166667
+144: It is Automobile: max speed = 18, fuel consumption = 42, fuel capasity = 7. Distance = 0.166667
+145: It is Automobile: max speed = 140, fuel consumption = 24, fuel capasity = 4. Distance = 0.166667
+146: It is Bus: passenger capacity = 14, fuel_capasity = 1, fuel_consumption = 6. Distance = 0.166667
+147: It is Automobile: max speed = 190, fuel consumption = 35, fuel capasity = 6. Distance = 0.171429
+148: It is Automobile: max speed = 92, fuel consumption = 35, fuel capasity = 6. Distance = 0.171429
+149: It is Automobile: max speed = 73, fuel consumption = 29, fuel capasity = 5. Distance = 0.172414
+150: It is Bus: passenger capacity = 26, fuel_capasity = 8, fuel_consumption = 46. Distance = 0.173913
+151: It is Automobile: max speed = 152, fuel consumption = 34, fuel capasity = 6. Distance = 0.176471
+152: It is Automobile: max speed = 41, fuel consumption = 39, fuel capasity = 7. Distance = 0.179487
+153: It is Bus: passenger capacity = 10, fuel_capasity = 9, fuel_consumption = 50. Distance = 0.18
+154: It is Bus: passenger capacity = 18, fuel_capasity = 9, fuel_consumption = 50. Distance = 0.18
+155: It is Truck: lifling_capacity = 2006, fuel_capasity = 2, fuel_consumption = 11. Distance = 0.181818
+156: It is Bus: passenger capacity = 23, fuel_capasity = 6, fuel_consumption = 33. Distance = 0.181818
+157: It is Truck: lifling_capacity = 4631, fuel_capasity = 2, fuel_consumption = 11. Distance = 0.181818
+158: It is Automobile: max speed = 195, fuel consumption = 33, fuel capasity = 6. Distance = 0.181818
+159: It is Truck: lifling_capacity = 2590, fuel_capasity = 2, fuel_consumption = 11. Distance = 0.181818
+160: It is Automobile: max speed = 49, fuel consumption = 38, fuel capasity = 7. Distance = 0.184211
+161: It is Automobile: max speed = 181, fuel consumption = 43, fuel capasity = 8. Distance = 0.186047
+162: It is Bus: passenger capacity = 14, fuel_capasity = 3, fuel_consumption = 16. Distance = 0.1875
+163: It is Bus: passenger capacity = 22, fuel_capasity = 9, fuel_consumption = 48. Distance = 0.1875
+164: It is Bus: passenger capacity = 5, fuel_capasity = 9, fuel_consumption = 47. Distance = 0.191489
+165: It is Bus: passenger capacity = 9, fuel_capasity = 9, fuel_consumption = 47. Distance = 0.191489
+166: It is Bus: passenger capacity = 15, fuel_capasity = 9, fuel_consumption = 47. Distance = 0.191489
+167: It is Bus: passenger capacity = 1, fuel_capasity = 5, fuel_consumption = 26. Distance = 0.192308
+168: It is Automobile: max speed = 23, fuel consumption = 36, fuel capasity = 7. Distance = 0.194444
+169: It is Bus: passenger capacity = 28, fuel_capasity = 8, fuel_consumption = 41. Distance = 0.195122
+170: It is Bus: passenger capacity = 5, fuel_capasity = 9, fuel_consumption = 45. Distance = 0.2
+171: It is Automobile: max speed = 103, fuel consumption = 30, fuel capasity = 6. Distance = 0.2
+172: It is Truck: lifling_capacity = 930, fuel_capasity = 1, fuel_consumption = 5. Distance = 0.2
+173: It is Truck: lifling_capacity = 1209, fuel_capasity = 3, fuel_consumption = 15. Distance = 0.2
+174: It is Bus: passenger capacity = 24, fuel_capasity = 1, fuel_consumption = 5. Distance = 0.2
+175: It is Automobile: max speed = 121, fuel consumption = 49, fuel capasity = 10. Distance = 0.204082
+176: It is Automobile: max speed = 25, fuel consumption = 44, fuel capasity = 9. Distance = 0.204545
+177: It is Bus: passenger capacity = 16, fuel_capasity = 7, fuel_consumption = 34. Distance = 0.205882
+178: It is Bus: passenger capacity = 13, fuel_capasity = 7, fuel_consumption = 34. Distance = 0.205882
+179: It is Bus: passenger capacity = 29, fuel_capasity = 5, fuel_consumption = 24. Distance = 0.208333
+180: It is Automobile: max speed = 151, fuel consumption = 43, fuel capasity = 9. Distance = 0.209302
+181: It is Truck: lifling_capacity = 1455, fuel_capasity = 4, fuel_consumption = 19. Distance = 0.210526
+182: It is Truck: lifling_capacity = 4302, fuel_capasity = 4, fuel_consumption = 19. Distance = 0.210526
+183: It is Truck: lifling_capacity = 2185, fuel_capasity = 4, fuel_consumption = 19. Distance = 0.210526
+184: It is Automobile: max speed = 128, fuel consumption = 42, fuel capasity = 9. Distance = 0.214286
+185: It is Truck: lifling_capacity = 744, fuel_capasity = 3, fuel_consumption = 14. Distance = 0.214286
+186: It is Truck: lifling_capacity = 2033, fuel_capasity = 3, fuel_consumption = 14. Distance = 0.214286
+187: It is Truck: lifling_capacity = 4685, fuel_capasity = 3, fuel_consumption = 14. Distance = 0.214286
+188: It is Automobile: max speed = 164, fuel consumption = 37, fuel capasity = 8. Distance = 0.216216
+189: It is Automobile: max speed = 121, fuel consumption = 23, fuel capasity = 5. Distance = 0.217391
+190: It is Bus: passenger capacity = 25, fuel_capasity = 10, fuel_consumption = 46. Distance = 0.217391
+191: It is Automobile: max speed = 131, fuel consumption = 32, fuel capasity = 7. Distance = 0.21875
+192: It is Bus: passenger capacity = 12, fuel_capasity = 11, fuel_consumption = 50. Distance = 0.22
+193: It is Truck: lifling_capacity = 4663, fuel_capasity = 4, fuel_consumption = 18. Distance = 0.222222
+194: It is Bus: passenger capacity = 14, fuel_capasity = 10, fuel_consumption = 45. Distance = 0.222222
+195: It is Automobile: max speed = 33, fuel consumption = 18, fuel capasity = 4. Distance = 0.222222
+196: It is Truck: lifling_capacity = 3172, fuel_capasity = 4, fuel_consumption = 18. Distance = 0.222222
+197: It is Bus: passenger capacity = 27, fuel_capasity = 11, fuel_consumption = 49. Distance = 0.22449
+198: It is Automobile: max speed = 65, fuel consumption = 40, fuel capasity = 9. Distance = 0.225
+199: It is Bus: passenger capacity = 11, fuel_capasity = 5, fuel_consumption = 22. Distance = 0.227273
+200: It is Bus: passenger capacity = 3, fuel_capasity = 10, fuel_consumption = 44. Distance = 0.227273
+201: It is Bus: passenger capacity = 28, fuel_capasity = 5, fuel_consumption = 22. Distance = 0.227273
+202: It is Bus: passenger capacity = 28, fuel_capasity = 11, fuel_consumption = 48. Distance = 0.229167
+203: It is Bus: passenger capacity = 19, fuel_capasity = 9, fuel_consumption = 39. Distance = 0.230769
+204: It is Bus: passenger capacity = 14, fuel_capasity = 8, fuel_consumption = 34. Distance = 0.235294
+205: It is Bus: passenger capacity = 25, fuel_capasity = 4, fuel_consumption = 17. Distance = 0.235294
+206: It is Automobile: max speed = 1, fuel consumption = 34, fuel capasity = 8. Distance = 0.235294
+207: It is Automobile: max speed = 25, fuel consumption = 34, fuel capasity = 8. Distance = 0.235294
+208: It is Bus: passenger capacity = 9, fuel_capasity = 8, fuel_consumption = 34. Distance = 0.235294
+209: It is Truck: lifling_capacity = 597, fuel_capasity = 4, fuel_consumption = 17. Distance = 0.235294
+210: It is Bus: passenger capacity = 14, fuel_capasity = 9, fuel_consumption = 38. Distance = 0.236842
+211: It is Bus: passenger capacity = 13, fuel_capasity = 9, fuel_consumption = 38. Distance = 0.236842
+212: It is Bus: passenger capacity = 25, fuel_capasity = 10, fuel_consumption = 42. Distance = 0.238095
+213: It is Bus: passenger capacity = 26, fuel_capasity = 11, fuel_consumption = 46. Distance = 0.23913
+214: It is Automobile: max speed = 23, fuel consumption = 33, fuel capasity = 8. Distance = 0.242424
+215: It is Bus: passenger capacity = 2, fuel_capasity = 8, fuel_consumption = 33. Distance = 0.242424
+216: It is Bus: passenger capacity = 17, fuel_capasity = 9, fuel_consumption = 37. Distance = 0.243243
+217: It is Bus: passenger capacity = 12, fuel_capasity = 9, fuel_consumption = 37. Distance = 0.243243
+218: It is Automobile: max speed = 13, fuel consumption = 45, fuel capasity = 11. Distance = 0.244444
+219: It is Automobile: max speed = 112, fuel consumption = 49, fuel capasity = 12. Distance = 0.244898
+220: It is Bus: passenger capacity = 24, fuel_capasity = 5, fuel_consumption = 20. Distance = 0.25
+221: It is Truck: lifling_capacity = 4134, fuel_capasity = 2, fuel_consumption = 8. Distance = 0.25
+222: It is Bus: passenger capacity = 17, fuel_capasity = 8, fuel_consumption = 32. Distance = 0.25
+223: It is Truck: lifling_capacity = 4954, fuel_capasity = 4, fuel_consumption = 16. Distance = 0.25
+224: It is Automobile: max speed = 124, fuel consumption = 24, fuel capasity = 6. Distance = 0.25
+225: It is Truck: lifling_capacity = 4554, fuel_capasity = 1, fuel_consumption = 4. Distance = 0.25
+226: It is Automobile: max speed = 75, fuel consumption = 24, fuel capasity = 6. Distance = 0.25
+227: It is Truck: lifling_capacity = 2954, fuel_capasity = 1, fuel_consumption = 4. Distance = 0.25
+228: It is Automobile: max speed = 124, fuel consumption = 47, fuel capasity = 12. Distance = 0.255319
+229: It is Automobile: max speed = 124, fuel consumption = 43, fuel capasity = 11. Distance = 0.255814
+230: It is Automobile: max speed = 77, fuel consumption = 39, fuel capasity = 10. Distance = 0.25641
+231: It is Bus: passenger capacity = 22, fuel_capasity = 8, fuel_consumption = 31. Distance = 0.258065
+232: It is Automobile: max speed = 193, fuel consumption = 23, fuel capasity = 6. Distance = 0.26087
+233: It is Automobile: max speed = 68, fuel consumption = 23, fuel capasity = 6. Distance = 0.26087
+234: It is Automobile: max speed = 48, fuel consumption = 46, fuel capasity = 12. Distance = 0.26087
+235: It is Automobile: max speed = 107, fuel consumption = 42, fuel capasity = 11. Distance = 0.261905
+236: It is Automobile: max speed = 100, fuel consumption = 19, fuel capasity = 5. Distance = 0.263158
+237: It is Automobile: max speed = 190, fuel consumption = 19, fuel capasity = 5. Distance = 0.263158
+238: It is Bus: passenger capacity = 14, fuel_capasity = 9, fuel_consumption = 34. Distance = 0.264706
+239: It is Bus: passenger capacity = 16, fuel_capasity = 4, fuel_consumption = 15. Distance = 0.266667
+240: It is Bus: passenger capacity = 6, fuel_capasity = 4, fuel_consumption = 15. Distance = 0.266667
+241: It is Automobile: max speed = 173, fuel consumption = 30, fuel capasity = 8. Distance = 0.266667
+242: It is Truck: lifling_capacity = 1351, fuel_capasity = 4, fuel_consumption = 15. Distance = 0.266667
+243: It is Automobile: max speed = 32, fuel consumption = 26, fuel capasity = 7. Distance = 0.269231
+244: It is Bus: passenger capacity = 1, fuel_capasity = 10, fuel_consumption = 37. Distance = 0.27027
+245: It is Truck: lifling_capacity = 3229, fuel_capasity = 3, fuel_consumption = 11. Distance = 0.272727
+246: It is Automobile: max speed = 162, fuel consumption = 44, fuel capasity = 12. Distance = 0.272727
+247: It is Bus: passenger capacity = 2, fuel_capasity = 3, fuel_consumption = 11. Distance = 0.272727
+248: It is Automobile: max speed = 83, fuel consumption = 33, fuel capasity = 9. Distance = 0.272727
+249: It is Bus: passenger capacity = 29, fuel_capasity = 9, fuel_consumption = 33. Distance = 0.272727
+250: It is Automobile: max speed = 83, fuel consumption = 29, fuel capasity = 8. Distance = 0.275862
+251: It is Truck: lifling_capacity = 4719, fuel_capasity = 5, fuel_consumption = 18. Distance = 0.277778
+252: It is Bus: passenger capacity = 28, fuel_capasity = 14, fuel_consumption = 50. Distance = 0.28
+253: It is Bus: passenger capacity = 3, fuel_capasity = 14, fuel_consumption = 50. Distance = 0.28
+254: It is Bus: passenger capacity = 23, fuel_capasity = 9, fuel_consumption = 32. Distance = 0.28125
+255: It is Automobile: max speed = 13, fuel consumption = 32, fuel capasity = 9. Distance = 0.28125
+256: It is Bus: passenger capacity = 15, fuel_capasity = 2, fuel_consumption = 7. Distance = 0.285714
+257: It is Bus: passenger capacity = 28, fuel_capasity = 10, fuel_consumption = 35. Distance = 0.285714
+258: It is Bus: passenger capacity = 21, fuel_capasity = 8, fuel_consumption = 28. Distance = 0.285714
+259: It is Truck: lifling_capacity = 2260, fuel_capasity = 2, fuel_consumption = 7. Distance = 0.285714
+260: It is Bus: passenger capacity = 1, fuel_capasity = 10, fuel_consumption = 35. Distance = 0.285714
+261: It is Bus: passenger capacity = 10, fuel_capasity = 4, fuel_consumption = 14. Distance = 0.285714
+262: It is Bus: passenger capacity = 27, fuel_capasity = 13, fuel_consumption = 45. Distance = 0.288889
+263: It is Bus: passenger capacity = 28, fuel_capasity = 7, fuel_consumption = 24. Distance = 0.291667
+264: It is Automobile: max speed = 58, fuel consumption = 24, fuel capasity = 7. Distance = 0.291667
+265: It is Bus: passenger capacity = 24, fuel_capasity = 14, fuel_consumption = 48. Distance = 0.291667
+266: It is Truck: lifling_capacity = 2756, fuel_capasity = 5, fuel_consumption = 17. Distance = 0.294118
+267: It is Bus: passenger capacity = 16, fuel_capasity = 5, fuel_consumption = 17. Distance = 0.294118
+268: It is Bus: passenger capacity = 16, fuel_capasity = 13, fuel_consumption = 44. Distance = 0.295455
+269: It is Automobile: max speed = 146, fuel consumption = 27, fuel capasity = 8. Distance = 0.296296
+270: It is Bus: passenger capacity = 24, fuel_capasity = 14, fuel_consumption = 47. Distance = 0.297872
+271: It is Automobile: max speed = 89, fuel consumption = 20, fuel capasity = 6. Distance = 0.3
+272: It is Bus: passenger capacity = 21, fuel_capasity = 3, fuel_consumption = 10. Distance = 0.3
+273: It is Automobile: max speed = 39, fuel consumption = 20, fuel capasity = 6. Distance = 0.3
+274: It is Bus: passenger capacity = 28, fuel_capasity = 15, fuel_consumption = 50. Distance = 0.3
+275: It is Truck: lifling_capacity = 3302, fuel_capasity = 6, fuel_consumption = 20. Distance = 0.3
+276: It is Truck: lifling_capacity = 4543, fuel_capasity = 6, fuel_consumption = 20. Distance = 0.3
+277: It is Automobile: max speed = 134, fuel consumption = 30, fuel capasity = 9. Distance = 0.3
+278: It is Bus: passenger capacity = 14, fuel_capasity = 13, fuel_consumption = 43. Distance = 0.302326
+279: It is Bus: passenger capacity = 27, fuel_capasity = 10, fuel_consumption = 33. Distance = 0.30303
+280: It is Bus: passenger capacity = 2, fuel_capasity = 15, fuel_consumption = 49. Distance = 0.306122
+281: It is Truck: lifling_capacity = 1964, fuel_capasity = 4, fuel_consumption = 13. Distance = 0.307692
+282: It is Bus: passenger capacity = 7, fuel_capasity = 8, fuel_consumption = 26. Distance = 0.307692
+283: It is Truck: lifling_capacity = 2291, fuel_capasity = 5, fuel_consumption = 16. Distance = 0.3125
+284: It is Bus: passenger capacity = 17, fuel_capasity = 5, fuel_consumption = 16. Distance = 0.3125
+285: It is Bus: passenger capacity = 14, fuel_capasity = 5, fuel_consumption = 16. Distance = 0.3125
+286: It is Bus: passenger capacity = 28, fuel_capasity = 5, fuel_consumption = 16. Distance = 0.3125
+287: It is Bus: passenger capacity = 26, fuel_capasity = 10, fuel_consumption = 32. Distance = 0.3125
+288: It is Bus: passenger capacity = 23, fuel_capasity = 12, fuel_consumption = 38. Distance = 0.315789
+289: It is Bus: passenger capacity = 4, fuel_capasity = 13, fuel_consumption = 41. Distance = 0.317073
+290: It is Bus: passenger capacity = 23, fuel_capasity = 14, fuel_consumption = 44. Distance = 0.318182
+291: It is Bus: passenger capacity = 16, fuel_capasity = 7, fuel_consumption = 22. Distance = 0.318182
+292: It is Automobile: max speed = 59, fuel consumption = 22, fuel capasity = 7. Distance = 0.318182
+293: It is Automobile: max speed = 21, fuel consumption = 44, fuel capasity = 14. Distance = 0.318182
+294: It is Automobile: max speed = 151, fuel consumption = 28, fuel capasity = 9. Distance = 0.321429
+295: It is Automobile: max speed = 7, fuel consumption = 28, fuel capasity = 9. Distance = 0.321429
+296: It is Bus: passenger capacity = 10, fuel_capasity = 10, fuel_consumption = 31. Distance = 0.322581
+297: It is Automobile: max speed = 37, fuel consumption = 31, fuel capasity = 10. Distance = 0.322581
+298: It is Bus: passenger capacity = 24, fuel_capasity = 13, fuel_consumption = 40. Distance = 0.325
+299: It is Automobile: max speed = 98, fuel consumption = 43, fuel capasity = 14. Distance = 0.325581
+300: It is Automobile: max speed = 18, fuel consumption = 46, fuel capasity = 15. Distance = 0.326087
+301: It is Automobile: max speed = 31, fuel consumption = 6, fuel capasity = 2. Distance = 0.333333
+302: It is Truck: lifling_capacity = 3614, fuel_capasity = 2, fuel_consumption = 6. Distance = 0.333333
+303: It is Truck: lifling_capacity = 263, fuel_capasity = 6, fuel_consumption = 18. Distance = 0.333333
+304: It is Bus: passenger capacity = 10, fuel_capasity = 3, fuel_consumption = 9. Distance = 0.333333
+305: It is Bus: passenger capacity = 7, fuel_capasity = 6, fuel_consumption = 18. Distance = 0.333333
+306: It is Truck: lifling_capacity = 1142, fuel_capasity = 4, fuel_consumption = 12. Distance = 0.333333
+307: It is Truck: lifling_capacity = 1018, fuel_capasity = 6, fuel_consumption = 18. Distance = 0.333333
+308: It is Automobile: max speed = 155, fuel consumption = 3, fuel capasity = 1. Distance = 0.333333
+309: It is Truck: lifling_capacity = 4176, fuel_capasity = 3, fuel_consumption = 9. Distance = 0.333333
+310: It is Automobile: max speed = 125, fuel consumption = 12, fuel capasity = 4. Distance = 0.333333
+311: It is Automobile: max speed = 127, fuel consumption = 6, fuel capasity = 2. Distance = 0.333333
+312: It is Bus: passenger capacity = 24, fuel_capasity = 9, fuel_consumption = 27. Distance = 0.333333
+313: It is Bus: passenger capacity = 17, fuel_capasity = 11, fuel_consumption = 33. Distance = 0.333333
+314: It is Truck: lifling_capacity = 124, fuel_capasity = 5, fuel_consumption = 15. Distance = 0.333333
+315: It is Bus: passenger capacity = 11, fuel_capasity = 17, fuel_consumption = 50. Distance = 0.34
+316: It is Automobile: max speed = 110, fuel consumption = 47, fuel capasity = 16. Distance = 0.340426
+317: It is Bus: passenger capacity = 7, fuel_capasity = 15, fuel_consumption = 44. Distance = 0.340909
+318: It is Automobile: max speed = 71, fuel consumption = 38, fuel capasity = 13. Distance = 0.342105
+319: It is Bus: passenger capacity = 14, fuel_capasity = 11, fuel_consumption = 32. Distance = 0.34375
+320: It is Automobile: max speed = 131, fuel consumption = 29, fuel capasity = 10. Distance = 0.344828
+321: It is Bus: passenger capacity = 20, fuel_capasity = 8, fuel_consumption = 23. Distance = 0.347826
+322: It is Bus: passenger capacity = 14, fuel_capasity = 8, fuel_consumption = 23. Distance = 0.347826
+323: It is Bus: passenger capacity = 15, fuel_capasity = 15, fuel_consumption = 43. Distance = 0.348837
+324: It is Bus: passenger capacity = 4, fuel_capasity = 13, fuel_consumption = 37. Distance = 0.351351
+325: It is Automobile: max speed = 102, fuel consumption = 34, fuel capasity = 12. Distance = 0.352941
+326: It is Bus: passenger capacity = 19, fuel_capasity = 12, fuel_consumption = 34. Distance = 0.352941
+327: It is Bus: passenger capacity = 27, fuel_capasity = 17, fuel_consumption = 48. Distance = 0.354167
+328: It is Bus: passenger capacity = 23, fuel_capasity = 11, fuel_consumption = 31. Distance = 0.354839
+329: It is Automobile: max speed = 72, fuel consumption = 31, fuel capasity = 11. Distance = 0.354839
+330: It is Bus: passenger capacity = 10, fuel_capasity = 16, fuel_consumption = 45. Distance = 0.355556
+331: It is Truck: lifling_capacity = 4505, fuel_capasity = 5, fuel_consumption = 14. Distance = 0.357143
+332: It is Bus: passenger capacity = 13, fuel_capasity = 15, fuel_consumption = 42. Distance = 0.357143
+333: It is Bus: passenger capacity = 14, fuel_capasity = 10, fuel_consumption = 28. Distance = 0.357143
+334: It is Automobile: max speed = 180, fuel consumption = 39, fuel capasity = 14. Distance = 0.358974
+335: It is Bus: passenger capacity = 27, fuel_capasity = 18, fuel_consumption = 50. Distance = 0.36
+336: It is Automobile: max speed = 139, fuel consumption = 50, fuel capasity = 18. Distance = 0.36
+337: It is Automobile: max speed = 65, fuel consumption = 36, fuel capasity = 13. Distance = 0.361111
+338: It is Truck: lifling_capacity = 2931, fuel_capasity = 4, fuel_consumption = 11. Distance = 0.363636
+339: It is Automobile: max speed = 119, fuel consumption = 33, fuel capasity = 12. Distance = 0.363636
+340: It is Truck: lifling_capacity = 2481, fuel_capasity = 4, fuel_consumption = 11. Distance = 0.363636
+341: It is Automobile: max speed = 59, fuel consumption = 22, fuel capasity = 8. Distance = 0.363636
+342: It is Automobile: max speed = 22, fuel consumption = 11, fuel capasity = 4. Distance = 0.363636
+343: It is Automobile: max speed = 183, fuel consumption = 44, fuel capasity = 16. Distance = 0.363636
+344: It is Truck: lifling_capacity = 888, fuel_capasity = 4, fuel_consumption = 11. Distance = 0.363636
+345: It is Automobile: max speed = 180, fuel consumption = 41, fuel capasity = 15. Distance = 0.365854
+346: It is Automobile: max speed = 115, fuel consumption = 41, fuel capasity = 15. Distance = 0.365854
+347: It is Automobile: max speed = 75, fuel consumption = 49, fuel capasity = 18. Distance = 0.367347
+348: It is Automobile: max speed = 95, fuel consumption = 49, fuel capasity = 18. Distance = 0.367347
+349: It is Truck: lifling_capacity = 1667, fuel_capasity = 7, fuel_consumption = 19. Distance = 0.368421
+350: It is Truck: lifling_capacity = 2204, fuel_capasity = 7, fuel_consumption = 19. Distance = 0.368421
+351: It is Bus: passenger capacity = 18, fuel_capasity = 10, fuel_consumption = 27. Distance = 0.37037
+352: It is Automobile: max speed = 153, fuel consumption = 35, fuel capasity = 13. Distance = 0.371429
+353: It is Bus: passenger capacity = 27, fuel_capasity = 13, fuel_consumption = 35. Distance = 0.371429
+354: It is Bus: passenger capacity = 28, fuel_capasity = 16, fuel_consumption = 43. Distance = 0.372093
+355: It is Bus: passenger capacity = 4, fuel_capasity = 9, fuel_consumption = 24. Distance = 0.375
+356: It is Truck: lifling_capacity = 150, fuel_capasity = 3, fuel_consumption = 8. Distance = 0.375
+357: It is Bus: passenger capacity = 23, fuel_capasity = 18, fuel_consumption = 48. Distance = 0.375
+358: It is Truck: lifling_capacity = 60, fuel_capasity = 3, fuel_consumption = 8. Distance = 0.375
+359: It is Automobile: max speed = 176, fuel consumption = 45, fuel capasity = 17. Distance = 0.377778
+360: It is Automobile: max speed = 29, fuel consumption = 37, fuel capasity = 14. Distance = 0.378378
+361: It is Automobile: max speed = 99, fuel consumption = 29, fuel capasity = 11. Distance = 0.37931
+362: It is Automobile: max speed = 168, fuel consumption = 50, fuel capasity = 19. Distance = 0.38
+363: It is Automobile: max speed = 163, fuel consumption = 42, fuel capasity = 16. Distance = 0.380952
+364: It is Bus: passenger capacity = 11, fuel_capasity = 13, fuel_consumption = 34. Distance = 0.382353
+365: It is Bus: passenger capacity = 18, fuel_capasity = 18, fuel_consumption = 47. Distance = 0.382979
+366: It is Truck: lifling_capacity = 3586, fuel_capasity = 5, fuel_consumption = 13. Distance = 0.384615
+367: It is Automobile: max speed = 130, fuel consumption = 13, fuel capasity = 5. Distance = 0.384615
+368: It is Automobile: max speed = 50, fuel consumption = 44, fuel capasity = 17. Distance = 0.386364
+369: It is Bus: passenger capacity = 5, fuel_capasity = 19, fuel_consumption = 49. Distance = 0.387755
+370: It is Automobile: max speed = 72, fuel consumption = 18, fuel capasity = 7. Distance = 0.388889
+371: It is Truck: lifling_capacity = 2619, fuel_capasity = 7, fuel_consumption = 18. Distance = 0.388889
+372: It is Truck: lifling_capacity = 3069, fuel_capasity = 7, fuel_consumption = 18. Distance = 0.388889
+373: It is Truck: lifling_capacity = 3171, fuel_capasity = 7, fuel_consumption = 18. Distance = 0.388889
+374: It is Bus: passenger capacity = 12, fuel_capasity = 16, fuel_consumption = 41. Distance = 0.390244
+375: It is Automobile: max speed = 129, fuel consumption = 46, fuel capasity = 18. Distance = 0.391304
+376: It is Automobile: max speed = 163, fuel consumption = 28, fuel capasity = 11. Distance = 0.392857
+377: It is Bus: passenger capacity = 1, fuel_capasity = 13, fuel_consumption = 33. Distance = 0.393939
+378: It is Bus: passenger capacity = 4, fuel_capasity = 15, fuel_consumption = 38. Distance = 0.394737
+379: It is Automobile: max speed = 129, fuel consumption = 43, fuel capasity = 17. Distance = 0.395349
+380: It is Bus: passenger capacity = 29, fuel_capasity = 4, fuel_consumption = 10. Distance = 0.4
+381: It is Bus: passenger capacity = 15, fuel_capasity = 16, fuel_consumption = 40. Distance = 0.4
+382: It is Truck: lifling_capacity = 900, fuel_capasity = 4, fuel_consumption = 10. Distance = 0.4
+383: It is Automobile: max speed = 3, fuel consumption = 25, fuel capasity = 10. Distance = 0.4
+384: It is Automobile: max speed = 15, fuel consumption = 15, fuel capasity = 6. Distance = 0.4
+385: It is Bus: passenger capacity = 23, fuel_capasity = 4, fuel_consumption = 10. Distance = 0.4
+386: It is Bus: passenger capacity = 29, fuel_capasity = 12, fuel_consumption = 30. Distance = 0.4
+387: It is Bus: passenger capacity = 15, fuel_capasity = 8, fuel_consumption = 20. Distance = 0.4
+388: It is Truck: lifling_capacity = 1745, fuel_capasity = 8, fuel_consumption = 20. Distance = 0.4
+389: It is Automobile: max speed = 62, fuel consumption = 40, fuel capasity = 16. Distance = 0.4
+390: It is Bus: passenger capacity = 4, fuel_capasity = 18, fuel_consumption = 45. Distance = 0.4
+391: It is Truck: lifling_capacity = 1755, fuel_capasity = 6, fuel_consumption = 15. Distance = 0.4
+392: It is Truck: lifling_capacity = 2264, fuel_capasity = 8, fuel_consumption = 20. Distance = 0.4
+393: It is Automobile: max speed = 100, fuel consumption = 42, fuel capasity = 17. Distance = 0.404762
+394: It is Bus: passenger capacity = 4, fuel_capasity = 17, fuel_consumption = 42. Distance = 0.404762
+395: It is Bus: passenger capacity = 27, fuel_capasity = 15, fuel_consumption = 37. Distance = 0.405405
+396: It is Bus: passenger capacity = 5, fuel_capasity = 16, fuel_consumption = 39. Distance = 0.410256
+397: It is Bus: passenger capacity = 13, fuel_capasity = 7, fuel_consumption = 17. Distance = 0.411765
+398: It is Bus: passenger capacity = 1, fuel_capasity = 17, fuel_consumption = 41. Distance = 0.414634
+399: It is Bus: passenger capacity = 14, fuel_capasity = 20, fuel_consumption = 48. Distance = 0.416667
+400: It is Automobile: max speed = 81, fuel consumption = 48, fuel capasity = 20. Distance = 0.416667
+401: It is Truck: lifling_capacity = 4423, fuel_capasity = 5, fuel_consumption = 12. Distance = 0.416667
+402: It is Automobile: max speed = 50, fuel consumption = 36, fuel capasity = 15. Distance = 0.416667
+403: It is Truck: lifling_capacity = 2071, fuel_capasity = 5, fuel_consumption = 12. Distance = 0.416667
+404: It is Bus: passenger capacity = 13, fuel_capasity = 15, fuel_consumption = 36. Distance = 0.416667
+405: It is Truck: lifling_capacity = 1525, fuel_capasity = 5, fuel_consumption = 12. Distance = 0.416667
+406: It is Automobile: max speed = 151, fuel consumption = 43, fuel capasity = 18. Distance = 0.418605
+407: It is Bus: passenger capacity = 5, fuel_capasity = 18, fuel_consumption = 43. Distance = 0.418605
+408: It is Truck: lifling_capacity = 2899, fuel_capasity = 8, fuel_consumption = 19. Distance = 0.421053
+409: It is Bus: passenger capacity = 6, fuel_capasity = 19, fuel_consumption = 45. Distance = 0.422222
+410: It is Bus: passenger capacity = 16, fuel_capasity = 19, fuel_consumption = 45. Distance = 0.422222
+411: It is Automobile: max speed = 74, fuel consumption = 33, fuel capasity = 14. Distance = 0.424242
+412: It is Automobile: max speed = 123, fuel consumption = 40, fuel capasity = 17. Distance = 0.425
+413: It is Bus: passenger capacity = 28, fuel_capasity = 15, fuel_consumption = 35. Distance = 0.428571
+414: It is Bus: passenger capacity = 22, fuel_capasity = 18, fuel_consumption = 42. Distance = 0.428571
+415: It is Truck: lifling_capacity = 4995, fuel_capasity = 6, fuel_consumption = 14. Distance = 0.428571
+416: It is Truck: lifling_capacity = 3839, fuel_capasity = 6, fuel_consumption = 14. Distance = 0.428571
+417: It is Bus: passenger capacity = 19, fuel_capasity = 12, fuel_consumption = 28. Distance = 0.428571
+418: It is Bus: passenger capacity = 9, fuel_capasity = 15, fuel_consumption = 35. Distance = 0.428571
+419: It is Truck: lifling_capacity = 4353, fuel_capasity = 3, fuel_consumption = 7. Distance = 0.428571
+420: It is Automobile: max speed = 42, fuel consumption = 44, fuel capasity = 19. Distance = 0.431818
+421: It is Automobile: max speed = 99, fuel consumption = 44, fuel capasity = 19. Distance = 0.431818
+422: It is Bus: passenger capacity = 16, fuel_capasity = 16, fuel_consumption = 37. Distance = 0.432432
+423: It is Automobile: max speed = 99, fuel consumption = 30, fuel capasity = 13. Distance = 0.433333
+424: It is Bus: passenger capacity = 8, fuel_capasity = 20, fuel_consumption = 46. Distance = 0.434783
+425: It is Automobile: max speed = 79, fuel consumption = 23, fuel capasity = 10. Distance = 0.434783
+426: It is Automobile: max speed = 196, fuel consumption = 39, fuel capasity = 17. Distance = 0.435897
+427: It is Truck: lifling_capacity = 4345, fuel_capasity = 7, fuel_consumption = 16. Distance = 0.4375
+428: It is Automobile: max speed = 60, fuel consumption = 25, fuel capasity = 11. Distance = 0.44
+429: It is Automobile: max speed = 191, fuel consumption = 25, fuel capasity = 11. Distance = 0.44
+430: It is Bus: passenger capacity = 12, fuel_capasity = 15, fuel_consumption = 34. Distance = 0.441176
+431: It is Truck: lifling_capacity = 1850, fuel_capasity = 4, fuel_consumption = 9. Distance = 0.444444
+432: It is Bus: passenger capacity = 8, fuel_capasity = 12, fuel_consumption = 27. Distance = 0.444444
+433: It is Automobile: max speed = 101, fuel consumption = 38, fuel capasity = 17. Distance = 0.447368
+434: It is Bus: passenger capacity = 8, fuel_capasity = 17, fuel_consumption = 38. Distance = 0.447368
+435: It is Automobile: max speed = 131, fuel consumption = 29, fuel capasity = 13. Distance = 0.448276
+436: It is Automobile: max speed = 178, fuel consumption = 29, fuel capasity = 13. Distance = 0.448276
+437: It is Automobile: max speed = 43, fuel consumption = 20, fuel capasity = 9. Distance = 0.45
+438: It is Automobile: max speed = 86, fuel consumption = 20, fuel capasity = 9. Distance = 0.45
+439: It is Truck: lifling_capacity = 408, fuel_capasity = 9, fuel_consumption = 20. Distance = 0.45
+440: It is Truck: lifling_capacity = 3977, fuel_capasity = 9, fuel_consumption = 20. Distance = 0.45
+441: It is Automobile: max speed = 101, fuel consumption = 31, fuel capasity = 14. Distance = 0.451613
+442: It is Automobile: max speed = 8, fuel consumption = 11, fuel capasity = 5. Distance = 0.454545
+443: It is Bus: passenger capacity = 18, fuel_capasity = 10, fuel_consumption = 22. Distance = 0.454545
+444: It is Automobile: max speed = 198, fuel consumption = 24, fuel capasity = 11. Distance = 0.458333
+445: It is Bus: passenger capacity = 30, fuel_capasity = 11, fuel_consumption = 24. Distance = 0.458333
+446: It is Bus: passenger capacity = 5, fuel_capasity = 12, fuel_consumption = 26. Distance = 0.461538
+447: It is Automobile: max speed = 111, fuel consumption = 28, fuel capasity = 13. Distance = 0.464286
+448: It is Bus: passenger capacity = 22, fuel_capasity = 20, fuel_consumption = 43. Distance = 0.465116
+449: It is Automobile: max speed = 27, fuel consumption = 34, fuel capasity = 16. Distance = 0.470588
+450: It is Bus: passenger capacity = 10, fuel_capasity = 8, fuel_consumption = 17. Distance = 0.470588
+451: It is Automobile: max speed = 135, fuel consumption = 17, fuel capasity = 8. Distance = 0.470588
+452: It is Bus: passenger capacity = 29, fuel_capasity = 17, fuel_consumption = 36. Distance = 0.472222
+453: It is Automobile: max speed = 91, fuel consumption = 36, fuel capasity = 17. Distance = 0.472222
+454: It is Automobile: max speed = 34, fuel consumption = 42, fuel capasity = 20. Distance = 0.47619
+455: It is Bus: passenger capacity = 7, fuel_capasity = 12, fuel_consumption = 25. Distance = 0.48
+456: It is Automobile: max speed = 28, fuel consumption = 27, fuel capasity = 13. Distance = 0.481481
+457: It is Automobile: max speed = 166, fuel consumption = 29, fuel capasity = 14. Distance = 0.482759
+458: It is Automobile: max speed = 179, fuel consumption = 35, fuel capasity = 17. Distance = 0.485714
+459: It is Bus: passenger capacity = 18, fuel_capasity = 17, fuel_consumption = 35. Distance = 0.485714
+460: It is Bus: passenger capacity = 12, fuel_capasity = 19, fuel_consumption = 39. Distance = 0.487179
+461: It is Bus: passenger capacity = 3, fuel_capasity = 20, fuel_consumption = 41. Distance = 0.487805
+462: It is Truck: lifling_capacity = 107, fuel_capasity = 4, fuel_consumption = 8. Distance = 0.5
+463: It is Truck: lifling_capacity = 632, fuel_capasity = 3, fuel_consumption = 6. Distance = 0.5
+464: It is Truck: lifling_capacity = 3209, fuel_capasity = 10, fuel_consumption = 20. Distance = 0.5
+465: It is Bus: passenger capacity = 26, fuel_capasity = 14, fuel_consumption = 28. Distance = 0.5
+466: It is Truck: lifling_capacity = 1104, fuel_capasity = 3, fuel_consumption = 6. Distance = 0.5
+467: It is Truck: lifling_capacity = 2970, fuel_capasity = 9, fuel_consumption = 18. Distance = 0.5
+468: It is Bus: passenger capacity = 18, fuel_capasity = 5, fuel_consumption = 10. Distance = 0.5
+469: It is Truck: lifling_capacity = 3059, fuel_capasity = 1, fuel_consumption = 2. Distance = 0.5
+470: It is Automobile: max speed = 193, fuel consumption = 22, fuel capasity = 11. Distance = 0.5
+471: It is Truck: lifling_capacity = 2880, fuel_capasity = 8, fuel_consumption = 16. Distance = 0.5
+472: It is Automobile: max speed = 169, fuel consumption = 8, fuel capasity = 4. Distance = 0.5
+473: It is Bus: passenger capacity = 10, fuel_capasity = 15, fuel_consumption = 30. Distance = 0.5
+474: It is Truck: lifling_capacity = 4226, fuel_capasity = 1, fuel_consumption = 2. Distance = 0.5
+475: It is Automobile: max speed = 73, fuel consumption = 4, fuel capasity = 2. Distance = 0.5
+476: It is Automobile: max speed = 144, fuel consumption = 22, fuel capasity = 11. Distance = 0.5
+477: It is Automobile: max speed = 97, fuel consumption = 8, fuel capasity = 4. Distance = 0.5
+478: It is Truck: lifling_capacity = 950, fuel_capasity = 10, fuel_consumption = 20. Distance = 0.5
+479: It is Automobile: max speed = 33, fuel consumption = 39, fuel capasity = 20. Distance = 0.512821
+480: It is Automobile: max speed = 123, fuel consumption = 37, fuel capasity = 19. Distance = 0.513514
+481: It is Automobile: max speed = 67, fuel consumption = 29, fuel capasity = 15. Distance = 0.517241
+482: It is Bus: passenger capacity = 6, fuel_capasity = 15, fuel_consumption = 29. Distance = 0.517241
+483: It is Automobile: max speed = 41, fuel consumption = 29, fuel capasity = 15. Distance = 0.517241
+484: It is Bus: passenger capacity = 21, fuel_capasity = 14, fuel_consumption = 27. Distance = 0.518519
+485: It is Automobile: max speed = 111, fuel consumption = 23, fuel capasity = 12. Distance = 0.521739
+486: It is Bus: passenger capacity = 18, fuel_capasity = 20, fuel_consumption = 38. Distance = 0.526316
+487: It is Bus: passenger capacity = 16, fuel_capasity = 19, fuel_consumption = 36. Distance = 0.527778
+488: It is Automobile: max speed = 187, fuel consumption = 17, fuel capasity = 9. Distance = 0.529412
+489: It is Bus: passenger capacity = 30, fuel_capasity = 17, fuel_consumption = 32. Distance = 0.53125
+490: It is Truck: lifling_capacity = 4848, fuel_capasity = 8, fuel_consumption = 15. Distance = 0.533333
+491: It is Automobile: max speed = 22, fuel consumption = 15, fuel capasity = 8. Distance = 0.533333
+492: It is Truck: lifling_capacity = 2340, fuel_capasity = 8, fuel_consumption = 15. Distance = 0.533333
+493: It is Bus: passenger capacity = 21, fuel_capasity = 14, fuel_consumption = 26. Distance = 0.538462
+494: It is Truck: lifling_capacity = 1097, fuel_capasity = 7, fuel_consumption = 13. Distance = 0.538462
+495: It is Truck: lifling_capacity = 4119, fuel_capasity = 7, fuel_consumption = 13. Distance = 0.538462
+496: It is Bus: passenger capacity = 6, fuel_capasity = 20, fuel_consumption = 37. Distance = 0.540541
+497: It is Bus: passenger capacity = 20, fuel_capasity = 19, fuel_consumption = 35. Distance = 0.542857
+498: It is Bus: passenger capacity = 1, fuel_capasity = 6, fuel_consumption = 11. Distance = 0.545455
+499: It is Bus: passenger capacity = 7, fuel_capasity = 6, fuel_consumption = 11. Distance = 0.545455
+500: It is Truck: lifling_capacity = 1202, fuel_capasity = 6, fuel_consumption = 11. Distance = 0.545455
+501: It is Bus: passenger capacity = 16, fuel_capasity = 12, fuel_consumption = 22. Distance = 0.545455
+502: It is Truck: lifling_capacity = 3819, fuel_capasity = 6, fuel_consumption = 11. Distance = 0.545455
+503: It is Automobile: max speed = 8, fuel consumption = 31, fuel capasity = 17. Distance = 0.548387
+504: It is Truck: lifling_capacity = 303, fuel_capasity = 11, fuel_consumption = 20. Distance = 0.55
+505: It is Truck: lifling_capacity = 4566, fuel_capasity = 10, fuel_consumption = 18. Distance = 0.555556
+506: It is Bus: passenger capacity = 19, fuel_capasity = 5, fuel_consumption = 9. Distance = 0.555556
+507: It is Truck: lifling_capacity = 3634, fuel_capasity = 10, fuel_consumption = 18. Distance = 0.555556
+508: It is Automobile: max speed = 104, fuel consumption = 18, fuel capasity = 10. Distance = 0.555556
+509: It is Automobile: max speed = 181, fuel consumption = 9, fuel capasity = 5. Distance = 0.555556
+510: It is Automobile: max speed = 158, fuel consumption = 34, fuel capasity = 19. Distance = 0.558824
+511: It is Automobile: max speed = 120, fuel consumption = 25, fuel capasity = 14. Distance = 0.56
+512: It is Automobile: max speed = 135, fuel consumption = 23, fuel capasity = 13. Distance = 0.565217
+513: It is Bus: passenger capacity = 19, fuel_capasity = 17, fuel_consumption = 30. Distance = 0.566667
+514: It is Bus: passenger capacity = 19, fuel_capasity = 17, fuel_consumption = 30. Distance = 0.566667
+515: It is Truck: lifling_capacity = 1444, fuel_capasity = 4, fuel_consumption = 7. Distance = 0.571429
+516: It is Automobile: max speed = 160, fuel consumption = 7, fuel capasity = 4. Distance = 0.571429
+517: It is Truck: lifling_capacity = 2620, fuel_capasity = 4, fuel_consumption = 7. Distance = 0.571429
+518: It is Bus: passenger capacity = 3, fuel_capasity = 4, fuel_consumption = 7. Distance = 0.571429
+519: It is Automobile: max speed = 180, fuel consumption = 28, fuel capasity = 16. Distance = 0.571429
+520: It is Bus: passenger capacity = 17, fuel_capasity = 4, fuel_consumption = 7. Distance = 0.571429
+521: It is Truck: lifling_capacity = 1707, fuel_capasity = 10, fuel_consumption = 17. Distance = 0.588235
+522: It is Truck: lifling_capacity = 3329, fuel_capasity = 10, fuel_consumption = 17. Distance = 0.588235
+523: It is Automobile: max speed = 119, fuel consumption = 27, fuel capasity = 16. Distance = 0.592593
+524: It is Bus: passenger capacity = 5, fuel_capasity = 6, fuel_consumption = 10. Distance = 0.6
+525: It is Bus: passenger capacity = 25, fuel_capasity = 3, fuel_consumption = 5. Distance = 0.6
+526: It is Bus: passenger capacity = 25, fuel_capasity = 15, fuel_consumption = 25. Distance = 0.6
+527: It is Truck: lifling_capacity = 2772, fuel_capasity = 3, fuel_consumption = 5. Distance = 0.6
+528: It is Truck: lifling_capacity = 4353, fuel_capasity = 3, fuel_consumption = 5. Distance = 0.6
+529: It is Truck: lifling_capacity = 366, fuel_capasity = 3, fuel_consumption = 5. Distance = 0.6
+530: It is Truck: lifling_capacity = 940, fuel_capasity = 9, fuel_consumption = 15. Distance = 0.6
+531: It is Automobile: max speed = 27, fuel consumption = 33, fuel capasity = 20. Distance = 0.606061
+532: It is Automobile: max speed = 6, fuel consumption = 23, fuel capasity = 14. Distance = 0.608696
+533: It is Bus: passenger capacity = 29, fuel_capasity = 8, fuel_consumption = 13. Distance = 0.615385
+534: It is Bus: passenger capacity = 18, fuel_capasity = 13, fuel_consumption = 21. Distance = 0.619048
+535: It is Automobile: max speed = 161, fuel consumption = 21, fuel capasity = 13. Distance = 0.619048
+536: It is Automobile: max speed = 200, fuel consumption = 29, fuel capasity = 18. Distance = 0.62069
+537: It is Automobile: max speed = 66, fuel consumption = 24, fuel capasity = 15. Distance = 0.625
+538: It is Truck: lifling_capacity = 2276, fuel_capasity = 10, fuel_consumption = 16. Distance = 0.625
+539: It is Truck: lifling_capacity = 1027, fuel_capasity = 5, fuel_consumption = 8. Distance = 0.625
+540: It is Truck: lifling_capacity = 4881, fuel_capasity = 5, fuel_consumption = 8. Distance = 0.625
+541: It is Bus: passenger capacity = 3, fuel_capasity = 17, fuel_consumption = 27. Distance = 0.62963
+542: It is Automobile: max speed = 75, fuel consumption = 19, fuel capasity = 12. Distance = 0.631579
+543: It is Automobile: max speed = 167, fuel consumption = 19, fuel capasity = 12. Distance = 0.631579
+544: It is Bus: passenger capacity = 28, fuel_capasity = 19, fuel_consumption = 30. Distance = 0.633333
+545: It is Bus: passenger capacity = 23, fuel_capasity = 19, fuel_consumption = 30. Distance = 0.633333
+546: It is Bus: passenger capacity = 17, fuel_capasity = 7, fuel_consumption = 11. Distance = 0.636364
+547: It is Bus: passenger capacity = 12, fuel_capasity = 16, fuel_consumption = 25. Distance = 0.64
+548: It is Automobile: max speed = 187, fuel consumption = 25, fuel capasity = 16. Distance = 0.64
+549: It is Truck: lifling_capacity = 759, fuel_capasity = 9, fuel_consumption = 14. Distance = 0.642857
+550: It is Truck: lifling_capacity = 1465, fuel_capasity = 9, fuel_consumption = 14. Distance = 0.642857
+551: It is Automobile: max speed = 104, fuel consumption = 14, fuel capasity = 9. Distance = 0.642857
+552: It is Automobile: max speed = 124, fuel consumption = 20, fuel capasity = 13. Distance = 0.65
+553: It is Bus: passenger capacity = 2, fuel_capasity = 15, fuel_consumption = 23. Distance = 0.652174
+554: It is Automobile: max speed = 1, fuel consumption = 26, fuel capasity = 17. Distance = 0.653846
+555: It is Truck: lifling_capacity = 3693, fuel_capasity = 8, fuel_consumption = 12. Distance = 0.666667
+556: It is Automobile: max speed = 65, fuel consumption = 30, fuel capasity = 20. Distance = 0.666667
+557: It is Bus: passenger capacity = 6, fuel_capasity = 12, fuel_consumption = 18. Distance = 0.666667
+558: It is Truck: lifling_capacity = 2970, fuel_capasity = 8, fuel_consumption = 12. Distance = 0.666667
+559: It is Automobile: max speed = 97, fuel consumption = 30, fuel capasity = 20. Distance = 0.666667
+560: It is Bus: passenger capacity = 17, fuel_capasity = 4, fuel_consumption = 6. Distance = 0.666667
+561: It is Automobile: max speed = 127, fuel consumption = 28, fuel capasity = 19. Distance = 0.678571
+562: It is Bus: passenger capacity = 14, fuel_capasity = 19, fuel_consumption = 28. Distance = 0.678571
+563: It is Automobile: max speed = 17, fuel consumption = 25, fuel capasity = 17. Distance = 0.68
+564: It is Bus: passenger capacity = 22, fuel_capasity = 13, fuel_consumption = 19. Distance = 0.684211
+565: It is Bus: passenger capacity = 4, fuel_capasity = 11, fuel_consumption = 16. Distance = 0.6875
+566: It is Truck: lifling_capacity = 1076, fuel_capasity = 11, fuel_consumption = 16. Distance = 0.6875
+567: It is Bus: passenger capacity = 22, fuel_capasity = 11, fuel_consumption = 16. Distance = 0.6875
+568: It is Truck: lifling_capacity = 1669, fuel_capasity = 9, fuel_consumption = 13. Distance = 0.692308
+569: It is Truck: lifling_capacity = 3222, fuel_capasity = 9, fuel_consumption = 13. Distance = 0.692308
+570: It is Truck: lifling_capacity = 1488, fuel_capasity = 9, fuel_consumption = 13. Distance = 0.692308
+571: It is Automobile: max speed = 94, fuel consumption = 23, fuel capasity = 16. Distance = 0.695652
+572: It is Automobile: max speed = 16, fuel consumption = 10, fuel capasity = 7. Distance = 0.7
+573: It is Bus: passenger capacity = 27, fuel_capasity = 14, fuel_consumption = 20. Distance = 0.7
+574: It is Automobile: max speed = 154, fuel consumption = 27, fuel capasity = 19. Distance = 0.703704
+575: It is Bus: passenger capacity = 21, fuel_capasity = 17, fuel_consumption = 24. Distance = 0.708333
+576: It is Automobile: max speed = 92, fuel consumption = 21, fuel capasity = 15. Distance = 0.714286
+577: It is Bus: passenger capacity = 4, fuel_capasity = 10, fuel_consumption = 14. Distance = 0.714286
+578: It is Bus: passenger capacity = 24, fuel_capasity = 15, fuel_consumption = 21. Distance = 0.714286
+579: It is Truck: lifling_capacity = 2035, fuel_capasity = 10, fuel_consumption = 14. Distance = 0.714286
+580: It is Truck: lifling_capacity = 2160, fuel_capasity = 5, fuel_consumption = 7. Distance = 0.714286
+581: It is Truck: lifling_capacity = 3134, fuel_capasity = 5, fuel_consumption = 7. Distance = 0.714286
+582: It is Automobile: max speed = 19, fuel consumption = 25, fuel capasity = 18. Distance = 0.72
+583: It is Automobile: max speed = 115, fuel consumption = 18, fuel capasity = 13. Distance = 0.722222
+584: It is Bus: passenger capacity = 10, fuel_capasity = 19, fuel_consumption = 26. Distance = 0.730769
+585: It is Automobile: max speed = 26, fuel consumption = 26, fuel capasity = 19. Distance = 0.730769
+586: It is Truck: lifling_capacity = 3753, fuel_capasity = 11, fuel_consumption = 15. Distance = 0.733333
+587: It is Automobile: max speed = 11, fuel consumption = 15, fuel capasity = 11. Distance = 0.733333
+588: It is Truck: lifling_capacity = 1212, fuel_capasity = 11, fuel_consumption = 15. Distance = 0.733333
+589: It is Truck: lifling_capacity = 1310, fuel_capasity = 14, fuel_consumption = 19. Distance = 0.736842
+590: It is Truck: lifling_capacity = 4466, fuel_capasity = 14, fuel_consumption = 19. Distance = 0.736842
+591: It is Bus: passenger capacity = 11, fuel_capasity = 17, fuel_consumption = 23. Distance = 0.73913
+592: It is Truck: lifling_capacity = 1130, fuel_capasity = 9, fuel_consumption = 12. Distance = 0.75
+593: It is Truck: lifling_capacity = 736, fuel_capasity = 12, fuel_consumption = 16. Distance = 0.75
+594: It is Automobile: max speed = 119, fuel consumption = 20, fuel capasity = 15. Distance = 0.75
+595: It is Automobile: max speed = 125, fuel consumption = 20, fuel capasity = 15. Distance = 0.75
+596: It is Bus: passenger capacity = 20, fuel_capasity = 18, fuel_consumption = 24. Distance = 0.75
+597: It is Bus: passenger capacity = 6, fuel_capasity = 15, fuel_consumption = 20. Distance = 0.75
+598: It is Truck: lifling_capacity = 1123, fuel_capasity = 12, fuel_consumption = 16. Distance = 0.75
+599: It is Truck: lifling_capacity = 591, fuel_capasity = 6, fuel_consumption = 8. Distance = 0.75
+600: It is Truck: lifling_capacity = 1318, fuel_capasity = 12, fuel_consumption = 16. Distance = 0.75
+601: It is Automobile: max speed = 199, fuel consumption = 25, fuel capasity = 19. Distance = 0.76
+602: It is Automobile: max speed = 30, fuel consumption = 25, fuel capasity = 19. Distance = 0.76
+603: It is Truck: lifling_capacity = 3778, fuel_capasity = 13, fuel_consumption = 17. Distance = 0.764706
+604: It is Automobile: max speed = 71, fuel consumption = 13, fuel capasity = 10. Distance = 0.769231
+605: It is Truck: lifling_capacity = 2902, fuel_capasity = 10, fuel_consumption = 13. Distance = 0.769231
+606: It is Truck: lifling_capacity = 2122, fuel_capasity = 10, fuel_consumption = 13. Distance = 0.769231
+607: It is Truck: lifling_capacity = 2814, fuel_capasity = 10, fuel_consumption = 13. Distance = 0.769231
+608: It is Truck: lifling_capacity = 2951, fuel_capasity = 7, fuel_consumption = 9. Distance = 0.777778
+609: It is Bus: passenger capacity = 15, fuel_capasity = 14, fuel_consumption = 18. Distance = 0.777778
+610: It is Truck: lifling_capacity = 4738, fuel_capasity = 7, fuel_consumption = 9. Distance = 0.777778
+611: It is Truck: lifling_capacity = 2141, fuel_capasity = 7, fuel_consumption = 9. Distance = 0.777778
+612: It is Automobile: max speed = 121, fuel consumption = 9, fuel capasity = 7. Distance = 0.777778
+613: It is Truck: lifling_capacity = 750, fuel_capasity = 7, fuel_consumption = 9. Distance = 0.777778
+614: It is Automobile: max speed = 126, fuel consumption = 23, fuel capasity = 18. Distance = 0.782609
+615: It is Automobile: max speed = 93, fuel consumption = 14, fuel capasity = 11. Distance = 0.785714
+616: It is Bus: passenger capacity = 6, fuel_capasity = 11, fuel_consumption = 14. Distance = 0.785714
+617: It is Bus: passenger capacity = 26, fuel_capasity = 19, fuel_consumption = 24. Distance = 0.791667
+618: It is Bus: passenger capacity = 19, fuel_capasity = 19, fuel_consumption = 24. Distance = 0.791667
+619: It is Truck: lifling_capacity = 3630, fuel_capasity = 12, fuel_consumption = 15. Distance = 0.8
+620: It is Automobile: max speed = 95, fuel consumption = 15, fuel capasity = 12. Distance = 0.8
+621: It is Bus: passenger capacity = 3, fuel_capasity = 20, fuel_consumption = 25. Distance = 0.8
+622: It is Truck: lifling_capacity = 4188, fuel_capasity = 12, fuel_consumption = 15. Distance = 0.8
+623: It is Truck: lifling_capacity = 154, fuel_capasity = 4, fuel_consumption = 5. Distance = 0.8
+624: It is Automobile: max speed = 137, fuel consumption = 5, fuel capasity = 4. Distance = 0.8
+625: It is Truck: lifling_capacity = 4742, fuel_capasity = 8, fuel_consumption = 10. Distance = 0.8
+626: It is Automobile: max speed = 56, fuel consumption = 5, fuel capasity = 4. Distance = 0.8
+627: It is Bus: passenger capacity = 11, fuel_capasity = 17, fuel_consumption = 21. Distance = 0.809524
+628: It is Bus: passenger capacity = 21, fuel_capasity = 17, fuel_consumption = 21. Distance = 0.809524
+629: It is Truck: lifling_capacity = 4080, fuel_capasity = 13, fuel_consumption = 16. Distance = 0.8125
+630: It is Truck: lifling_capacity = 2163, fuel_capasity = 13, fuel_consumption = 16. Distance = 0.8125
+631: It is Truck: lifling_capacity = 2033, fuel_capasity = 13, fuel_consumption = 16. Distance = 0.8125
+632: It is Bus: passenger capacity = 16, fuel_capasity = 13, fuel_consumption = 16. Distance = 0.8125
+633: It is Bus: passenger capacity = 16, fuel_capasity = 18, fuel_consumption = 22. Distance = 0.818182
+634: It is Truck: lifling_capacity = 606, fuel_capasity = 14, fuel_consumption = 17. Distance = 0.823529
+635: It is Automobile: max speed = 54, fuel consumption = 17, fuel capasity = 14. Distance = 0.823529
+636: It is Automobile: max speed = 106, fuel consumption = 23, fuel capasity = 19. Distance = 0.826087
+637: It is Automobile: max speed = 172, fuel consumption = 23, fuel capasity = 19. Distance = 0.826087
+638: It is Truck: lifling_capacity = 4844, fuel_capasity = 5, fuel_consumption = 6. Distance = 0.833333
+639: It is Bus: passenger capacity = 17, fuel_capasity = 20, fuel_consumption = 24. Distance = 0.833333
+640: It is Truck: lifling_capacity = 2362, fuel_capasity = 15, fuel_consumption = 18. Distance = 0.833333
+641: It is Bus: passenger capacity = 14, fuel_capasity = 10, fuel_consumption = 12. Distance = 0.833333
+642: It is Truck: lifling_capacity = 2185, fuel_capasity = 11, fuel_consumption = 13. Distance = 0.846154
+643: It is Automobile: max speed = 167, fuel consumption = 13, fuel capasity = 11. Distance = 0.846154
+644: It is Truck: lifling_capacity = 607, fuel_capasity = 17, fuel_consumption = 20. Distance = 0.85
+645: It is Truck: lifling_capacity = 1855, fuel_capasity = 17, fuel_consumption = 20. Distance = 0.85
+646: It is Truck: lifling_capacity = 2218, fuel_capasity = 12, fuel_consumption = 14. Distance = 0.857143
+647: It is Bus: passenger capacity = 12, fuel_capasity = 6, fuel_consumption = 7. Distance = 0.857143
+648: It is Truck: lifling_capacity = 226, fuel_capasity = 12, fuel_consumption = 14. Distance = 0.857143
+649: It is Automobile: max speed = 200, fuel consumption = 21, fuel capasity = 18. Distance = 0.857143
+650: It is Bus: passenger capacity = 13, fuel_capasity = 12, fuel_consumption = 14. Distance = 0.857143
+651: It is Bus: passenger capacity = 16, fuel_capasity = 19, fuel_consumption = 22. Distance = 0.863636
+652: It is Automobile: max speed = 188, fuel consumption = 22, fuel capasity = 19. Distance = 0.863636
+653: It is Automobile: max speed = 128, fuel consumption = 22, fuel capasity = 19. Distance = 0.863636
+654: It is Automobile: max speed = 169, fuel consumption = 22, fuel capasity = 19. Distance = 0.863636
+655: It is Truck: lifling_capacity = 4682, fuel_capasity = 13, fuel_consumption = 15. Distance = 0.866667
+656: It is Bus: passenger capacity = 9, fuel_capasity = 7, fuel_consumption = 8. Distance = 0.875
+657: It is Truck: lifling_capacity = 3203, fuel_capasity = 14, fuel_consumption = 16. Distance = 0.875
+658: It is Truck: lifling_capacity = 219, fuel_capasity = 7, fuel_consumption = 8. Distance = 0.875
+659: It is Automobile: max speed = 174, fuel consumption = 16, fuel capasity = 14. Distance = 0.875
+660: It is Bus: passenger capacity = 17, fuel_capasity = 7, fuel_consumption = 8. Distance = 0.875
+661: It is Bus: passenger capacity = 13, fuel_capasity = 14, fuel_consumption = 16. Distance = 0.875
+662: It is Automobile: max speed = 127, fuel consumption = 8, fuel capasity = 7. Distance = 0.875
+663: It is Automobile: max speed = 159, fuel consumption = 17, fuel capasity = 15. Distance = 0.882353
+664: It is Automobile: max speed = 95, fuel consumption = 18, fuel capasity = 16. Distance = 0.888889
+665: It is Automobile: max speed = 19, fuel consumption = 18, fuel capasity = 16. Distance = 0.888889
+666: It is Truck: lifling_capacity = 276, fuel_capasity = 8, fuel_consumption = 9. Distance = 0.888889
+667: It is Truck: lifling_capacity = 32, fuel_capasity = 17, fuel_consumption = 19. Distance = 0.894737
+668: It is Truck: lifling_capacity = 1814, fuel_capasity = 17, fuel_consumption = 19. Distance = 0.894737
+669: It is Truck: lifling_capacity = 4613, fuel_capasity = 17, fuel_consumption = 19. Distance = 0.894737
+670: It is Truck: lifling_capacity = 355, fuel_capasity = 9, fuel_consumption = 10. Distance = 0.9
+671: It is Truck: lifling_capacity = 451, fuel_capasity = 9, fuel_consumption = 10. Distance = 0.9
+672: It is Automobile: max speed = 153, fuel consumption = 10, fuel capasity = 9. Distance = 0.9
+673: It is Automobile: max speed = 16, fuel consumption = 10, fuel capasity = 9. Distance = 0.9
+674: It is Bus: passenger capacity = 22, fuel_capasity = 19, fuel_consumption = 21. Distance = 0.904762
+675: It is Automobile: max speed = 16, fuel consumption = 21, fuel capasity = 19. Distance = 0.904762
+676: It is Bus: passenger capacity = 22, fuel_capasity = 20, fuel_consumption = 22. Distance = 0.909091
+677: It is Truck: lifling_capacity = 3914, fuel_capasity = 11, fuel_consumption = 12. Distance = 0.916667
+678: It is Truck: lifling_capacity = 1615, fuel_capasity = 11, fuel_consumption = 12. Distance = 0.916667
+679: It is Truck: lifling_capacity = 4557, fuel_capasity = 12, fuel_consumption = 13. Distance = 0.923077
+680: It is Automobile: max speed = 105, fuel consumption = 13, fuel capasity = 12. Distance = 0.923077
+681: It is Automobile: max speed = 54, fuel consumption = 14, fuel capasity = 13. Distance = 0.928571
+682: It is Truck: lifling_capacity = 2671, fuel_capasity = 14, fuel_consumption = 15. Distance = 0.933333
+683: It is Bus: passenger capacity = 24, fuel_capasity = 14, fuel_consumption = 15. Distance = 0.933333
+684: It is Automobile: max speed = 117, fuel consumption = 16, fuel capasity = 15. Distance = 0.9375
+685: It is Truck: lifling_capacity = 697, fuel_capasity = 15, fuel_consumption = 16. Distance = 0.9375
+686: It is Truck: lifling_capacity = 3946, fuel_capasity = 16, fuel_consumption = 17. Distance = 0.941176
+687: It is Truck: lifling_capacity = 2192, fuel_capasity = 17, fuel_consumption = 18. Distance = 0.944444
+688: It is Truck: lifling_capacity = 2331, fuel_capasity = 18, fuel_consumption = 19. Distance = 0.947368
+689: It is Truck: lifling_capacity = 3639, fuel_capasity = 19, fuel_consumption = 20. Distance = 0.95
+690: It is Automobile: max speed = 127, fuel consumption = 20, fuel capasity = 19. Distance = 0.95
+691: It is Truck: lifling_capacity = 4394, fuel_capasity = 7, fuel_consumption = 7. Distance = 1
+692: It is Truck: lifling_capacity = 976, fuel_capasity = 20, fuel_consumption = 20. Distance = 1
+693: It is Truck: lifling_capacity = 85, fuel_capasity = 9, fuel_consumption = 9. Distance = 1
+694: It is Bus: passenger capacity = 20, fuel_capasity = 17, fuel_consumption = 17. Distance = 1
+695: It is Truck: lifling_capacity = 711, fuel_capasity = 1, fuel_consumption = 1. Distance = 1
+696: It is Automobile: max speed = 122, fuel consumption = 11, fuel capasity = 11. Distance = 1
+697: It is Truck: lifling_capacity = 69, fuel_capasity = 17, fuel_consumption = 17. Distance = 1
+698: It is Bus: passenger capacity = 19, fuel_capasity = 16, fuel_consumption = 16. Distance = 1
+699: It is Automobile: max speed = 10, fuel consumption = 10, fuel capasity = 10. Distance = 1
+700: It is Truck: lifling_capacity = 1368, fuel_capasity = 7, fuel_consumption = 7. Distance = 1
+701: It is Truck: lifling_capacity = 256, fuel_capasity = 5, fuel_consumption = 5. Distance = 1
+702: It is Truck: lifling_capacity = 2712, fuel_capasity = 1, fuel_consumption = 1. Distance = 1
+703: It is Truck: lifling_capacity = 211, fuel_capasity = 9, fuel_consumption = 9. Distance = 1
+704: It is Bus: passenger capacity = 29, fuel_capasity = 13, fuel_consumption = 13. Distance = 1
+705: It is Truck: lifling_capacity = 4780, fuel_capasity = 12, fuel_consumption = 12. Distance = 1
+706: It is Truck: lifling_capacity = 4306, fuel_capasity = 11, fuel_consumption = 11. Distance = 1
+707: It is Truck: lifling_capacity = 4631, fuel_capasity = 17, fuel_consumption = 17. Distance = 1
+708: It is Truck: lifling_capacity = 3342, fuel_capasity = 9, fuel_consumption = 9. Distance = 1
+709: It is Bus: passenger capacity = 1, fuel_capasity = 12, fuel_consumption = 12. Distance = 1
+710: It is Truck: lifling_capacity = 442, fuel_capasity = 7, fuel_consumption = 7. Distance = 1
+711: It is Automobile: max speed = 83, fuel consumption = 11, fuel capasity = 11. Distance = 1
+712: It is Truck: lifling_capacity = 3030, fuel_capasity = 3, fuel_consumption = 3. Distance = 1
+713: It is Truck: lifling_capacity = 3956, fuel_capasity = 3, fuel_consumption = 3. Distance = 1
+714: It is Bus: passenger capacity = 22, fuel_capasity = 17, fuel_consumption = 17. Distance = 1
+715: It is Bus: passenger capacity = 5, fuel_capasity = 18, fuel_consumption = 18. Distance = 1
+716: It is Truck: lifling_capacity = 2930, fuel_capasity = 20, fuel_consumption = 20. Distance = 1
+717: It is Truck: lifling_capacity = 2356, fuel_capasity = 10, fuel_consumption = 10. Distance = 1
+718: It is Truck: lifling_capacity = 2849, fuel_capasity = 12, fuel_consumption = 12. Distance = 1
+719: It is Truck: lifling_capacity = 4504, fuel_capasity = 3, fuel_consumption = 3. Distance = 1
+720: It is Truck: lifling_capacity = 742, fuel_capasity = 8, fuel_consumption = 8. Distance = 1
+721: It is Bus: passenger capacity = 1, fuel_capasity = 12, fuel_consumption = 12. Distance = 1
+722: It is Truck: lifling_capacity = 478, fuel_capasity = 17, fuel_consumption = 17. Distance = 1
+723: It is Bus: passenger capacity = 30, fuel_capasity = 5, fuel_consumption = 5. Distance = 1
+724: It is Truck: lifling_capacity = 175, fuel_capasity = 15, fuel_consumption = 15. Distance = 1
+725: It is Automobile: max speed = 123, fuel consumption = 19, fuel capasity = 20. Distance = 1.05263
+726: It is Bus: passenger capacity = 7, fuel_capasity = 20, fuel_consumption = 19. Distance = 1.05263
+727: It is Truck: lifling_capacity = 103, fuel_capasity = 20, fuel_consumption = 19. Distance = 1.05263
+728: It is Truck: lifling_capacity = 1179, fuel_capasity = 20, fuel_consumption = 19. Distance = 1.05263
+729: It is Truck: lifling_capacity = 2656, fuel_capasity = 19, fuel_consumption = 18. Distance = 1.05556
+730: It is Truck: lifling_capacity = 2056, fuel_capasity = 19, fuel_consumption = 18. Distance = 1.05556
+731: It is Automobile: max speed = 23, fuel consumption = 18, fuel capasity = 19. Distance = 1.05556
+732: It is Truck: lifling_capacity = 333, fuel_capasity = 19, fuel_consumption = 18. Distance = 1.05556
+733: It is Truck: lifling_capacity = 422, fuel_capasity = 18, fuel_consumption = 17. Distance = 1.05882
+734: It is Truck: lifling_capacity = 4113, fuel_capasity = 17, fuel_consumption = 16. Distance = 1.0625
+735: It is Truck: lifling_capacity = 1104, fuel_capasity = 17, fuel_consumption = 16. Distance = 1.0625
+736: It is Bus: passenger capacity = 8, fuel_capasity = 17, fuel_consumption = 16. Distance = 1.0625
+737: It is Truck: lifling_capacity = 2635, fuel_capasity = 17, fuel_consumption = 16. Distance = 1.0625
+738: It is Automobile: max speed = 191, fuel consumption = 15, fuel capasity = 16. Distance = 1.06667
+739: It is Truck: lifling_capacity = 3607, fuel_capasity = 15, fuel_consumption = 14. Distance = 1.07143
+740: It is Truck: lifling_capacity = 1521, fuel_capasity = 15, fuel_consumption = 14. Distance = 1.07143
+741: It is Automobile: max speed = 7, fuel consumption = 12, fuel capasity = 13. Distance = 1.08333
+742: It is Truck: lifling_capacity = 3129, fuel_capasity = 13, fuel_consumption = 12. Distance = 1.08333
+743: It is Automobile: max speed = 75, fuel consumption = 11, fuel capasity = 12. Distance = 1.09091
+744: It is Truck: lifling_capacity = 4118, fuel_capasity = 12, fuel_consumption = 11. Distance = 1.09091
+745: It is Truck: lifling_capacity = 1888, fuel_capasity = 11, fuel_consumption = 10. Distance = 1.1
+746: It is Truck: lifling_capacity = 941, fuel_capasity = 11, fuel_consumption = 10. Distance = 1.1
+747: It is Truck: lifling_capacity = 3348, fuel_capasity = 10, fuel_consumption = 9. Distance = 1.11111
+748: It is Truck: lifling_capacity = 4770, fuel_capasity = 19, fuel_consumption = 17. Distance = 1.11765
+749: It is Truck: lifling_capacity = 383, fuel_capasity = 9, fuel_consumption = 8. Distance = 1.125
+750: It is Bus: passenger capacity = 16, fuel_capasity = 18, fuel_consumption = 16. Distance = 1.125
+751: It is Truck: lifling_capacity = 697, fuel_capasity = 16, fuel_consumption = 14. Distance = 1.14286
+752: It is Truck: lifling_capacity = 917, fuel_capasity = 8, fuel_consumption = 7. Distance = 1.14286
+753: It is Truck: lifling_capacity = 3698, fuel_capasity = 15, fuel_consumption = 13. Distance = 1.15385
+754: It is Bus: passenger capacity = 27, fuel_capasity = 15, fuel_consumption = 13. Distance = 1.15385
+755: It is Truck: lifling_capacity = 1033, fuel_capasity = 7, fuel_consumption = 6. Distance = 1.16667
+756: It is Truck: lifling_capacity = 260, fuel_capasity = 14, fuel_consumption = 12. Distance = 1.16667
+757: It is Truck: lifling_capacity = 2556, fuel_capasity = 7, fuel_consumption = 6. Distance = 1.16667
+758: It is Truck: lifling_capacity = 4038, fuel_capasity = 14, fuel_consumption = 12. Distance = 1.16667
+759: It is Bus: passenger capacity = 25, fuel_capasity = 14, fuel_consumption = 12. Distance = 1.16667
+760: It is Automobile: max speed = 81, fuel consumption = 6, fuel capasity = 7. Distance = 1.16667
+761: It is Truck: lifling_capacity = 274, fuel_capasity = 20, fuel_consumption = 17. Distance = 1.17647
+762: It is Bus: passenger capacity = 18, fuel_capasity = 20, fuel_consumption = 17. Distance = 1.17647
+763: It is Truck: lifling_capacity = 4239, fuel_capasity = 18, fuel_consumption = 15. Distance = 1.2
+764: It is Automobile: max speed = 32, fuel consumption = 15, fuel capasity = 18. Distance = 1.2
+765: It is Truck: lifling_capacity = 343, fuel_capasity = 12, fuel_consumption = 10. Distance = 1.2
+766: It is Bus: passenger capacity = 4, fuel_capasity = 18, fuel_consumption = 15. Distance = 1.2
+767: It is Bus: passenger capacity = 23, fuel_capasity = 17, fuel_consumption = 14. Distance = 1.21429
+768: It is Bus: passenger capacity = 22, fuel_capasity = 20, fuel_consumption = 16. Distance = 1.25
+769: It is Truck: lifling_capacity = 4221, fuel_capasity = 20, fuel_consumption = 16. Distance = 1.25
+770: It is Automobile: max speed = 119, fuel consumption = 8, fuel capasity = 10. Distance = 1.25
+771: It is Bus: passenger capacity = 23, fuel_capasity = 15, fuel_consumption = 12. Distance = 1.25
+772: It is Bus: passenger capacity = 13, fuel_capasity = 5, fuel_consumption = 4. Distance = 1.25
+773: It is Automobile: max speed = 145, fuel consumption = 15, fuel capasity = 19. Distance = 1.26667
+774: It is Automobile: max speed = 105, fuel consumption = 15, fuel capasity = 19. Distance = 1.26667
+775: It is Automobile: max speed = 40, fuel consumption = 11, fuel capasity = 14. Distance = 1.27273
+776: It is Automobile: max speed = 52, fuel consumption = 11, fuel capasity = 14. Distance = 1.27273
+777: It is Truck: lifling_capacity = 347, fuel_capasity = 18, fuel_consumption = 14. Distance = 1.28571
+778: It is Bus: passenger capacity = 22, fuel_capasity = 18, fuel_consumption = 14. Distance = 1.28571
+779: It is Automobile: max speed = 152, fuel consumption = 7, fuel capasity = 9. Distance = 1.28571
+780: It is Truck: lifling_capacity = 2010, fuel_capasity = 13, fuel_consumption = 10. Distance = 1.3
+781: It is Truck: lifling_capacity = 937, fuel_capasity = 13, fuel_consumption = 10. Distance = 1.3
+782: It is Truck: lifling_capacity = 2340, fuel_capasity = 17, fuel_consumption = 13. Distance = 1.30769
+783: It is Truck: lifling_capacity = 25, fuel_capasity = 17, fuel_consumption = 13. Distance = 1.30769
+784: It is Automobile: max speed = 98, fuel consumption = 13, fuel capasity = 17. Distance = 1.30769
+785: It is Truck: lifling_capacity = 3180, fuel_capasity = 4, fuel_consumption = 3. Distance = 1.33333
+786: It is Automobile: max speed = 169, fuel consumption = 15, fuel capasity = 20. Distance = 1.33333
+787: It is Truck: lifling_capacity = 2466, fuel_capasity = 16, fuel_consumption = 12. Distance = 1.33333
+788: It is Automobile: max speed = 161, fuel consumption = 15, fuel capasity = 20. Distance = 1.33333
+789: It is Bus: passenger capacity = 19, fuel_capasity = 8, fuel_consumption = 6. Distance = 1.33333
+790: It is Truck: lifling_capacity = 2816, fuel_capasity = 8, fuel_consumption = 6. Distance = 1.33333
+791: It is Automobile: max speed = 4, fuel consumption = 14, fuel capasity = 19. Distance = 1.35714
+792: It is Truck: lifling_capacity = 3047, fuel_capasity = 15, fuel_consumption = 11. Distance = 1.36364
+793: It is Automobile: max speed = 103, fuel consumption = 8, fuel capasity = 11. Distance = 1.375
+794: It is Automobile: max speed = 188, fuel consumption = 8, fuel capasity = 11. Distance = 1.375
+795: It is Automobile: max speed = 123, fuel consumption = 5, fuel capasity = 7. Distance = 1.4
+796: It is Bus: passenger capacity = 6, fuel_capasity = 7, fuel_consumption = 5. Distance = 1.4
+797: It is Truck: lifling_capacity = 2689, fuel_capasity = 14, fuel_consumption = 10. Distance = 1.4
+798: It is Bus: passenger capacity = 19, fuel_capasity = 20, fuel_consumption = 14. Distance = 1.42857
+799: It is Truck: lifling_capacity = 2638, fuel_capasity = 10, fuel_consumption = 7. Distance = 1.42857
+800: It is Truck: lifling_capacity = 2973, fuel_capasity = 20, fuel_consumption = 14. Distance = 1.42857
+801: It is Truck: lifling_capacity = 4526, fuel_capasity = 13, fuel_consumption = 9. Distance = 1.44444
+802: It is Automobile: max speed = 61, fuel consumption = 11, fuel capasity = 16. Distance = 1.45455
+803: It is Bus: passenger capacity = 19, fuel_capasity = 16, fuel_consumption = 11. Distance = 1.45455
+804: It is Bus: passenger capacity = 3, fuel_capasity = 19, fuel_consumption = 13. Distance = 1.46154
+805: It is Truck: lifling_capacity = 1409, fuel_capasity = 19, fuel_consumption = 13. Distance = 1.46154
+806: It is Truck: lifling_capacity = 543, fuel_capasity = 3, fuel_consumption = 2. Distance = 1.5
+807: It is Truck: lifling_capacity = 4768, fuel_capasity = 3, fuel_consumption = 2. Distance = 1.5
+808: It is Truck: lifling_capacity = 444, fuel_capasity = 12, fuel_consumption = 8. Distance = 1.5
+809: It is Automobile: max speed = 13, fuel consumption = 4, fuel capasity = 6. Distance = 1.5
+810: It is Bus: passenger capacity = 9, fuel_capasity = 12, fuel_consumption = 8. Distance = 1.5
+811: It is Automobile: max speed = 87, fuel consumption = 8, fuel capasity = 12. Distance = 1.5
+812: It is Truck: lifling_capacity = 3442, fuel_capasity = 18, fuel_consumption = 12. Distance = 1.5
+813: It is Truck: lifling_capacity = 2913, fuel_capasity = 12, fuel_consumption = 8. Distance = 1.5
+814: It is Truck: lifling_capacity = 4274, fuel_capasity = 6, fuel_consumption = 4. Distance = 1.5
+815: It is Truck: lifling_capacity = 1746, fuel_capasity = 9, fuel_consumption = 6. Distance = 1.5
+816: It is Truck: lifling_capacity = 1718, fuel_capasity = 20, fuel_consumption = 13. Distance = 1.53846
+817: It is Truck: lifling_capacity = 4399, fuel_capasity = 20, fuel_consumption = 13. Distance = 1.53846
+818: It is Automobile: max speed = 180, fuel consumption = 11, fuel capasity = 17. Distance = 1.54545
+819: It is Truck: lifling_capacity = 799, fuel_capasity = 17, fuel_consumption = 11. Distance = 1.54545
+820: It is Bus: passenger capacity = 15, fuel_capasity = 17, fuel_consumption = 11. Distance = 1.54545
+821: It is Truck: lifling_capacity = 3538, fuel_capasity = 14, fuel_consumption = 9. Distance = 1.55556
+822: It is Truck: lifling_capacity = 1224, fuel_capasity = 14, fuel_consumption = 9. Distance = 1.55556
+823: It is Truck: lifling_capacity = 3054, fuel_capasity = 14, fuel_consumption = 9. Distance = 1.55556
+824: It is Truck: lifling_capacity = 4493, fuel_capasity = 11, fuel_consumption = 7. Distance = 1.57143
+825: It is Truck: lifling_capacity = 4445, fuel_capasity = 11, fuel_consumption = 7. Distance = 1.57143
+826: It is Truck: lifling_capacity = 2789, fuel_capasity = 19, fuel_consumption = 12. Distance = 1.58333
+827: It is Automobile: max speed = 88, fuel consumption = 10, fuel capasity = 16. Distance = 1.6
+828: It is Truck: lifling_capacity = 4043, fuel_capasity = 8, fuel_consumption = 5. Distance = 1.6
+829: It is Automobile: max speed = 85, fuel consumption = 5, fuel capasity = 8. Distance = 1.6
+830: It is Automobile: max speed = 3, fuel consumption = 8, fuel capasity = 13. Distance = 1.625
+831: It is Truck: lifling_capacity = 4990, fuel_capasity = 13, fuel_consumption = 8. Distance = 1.625
+832: It is Automobile: max speed = 186, fuel consumption = 11, fuel capasity = 18. Distance = 1.63636
+833: It is Truck: lifling_capacity = 226, fuel_capasity = 20, fuel_consumption = 12. Distance = 1.66667
+834: It is Truck: lifling_capacity = 2738, fuel_capasity = 5, fuel_consumption = 3. Distance = 1.66667
+835: It is Bus: passenger capacity = 9, fuel_capasity = 17, fuel_consumption = 10. Distance = 1.7
+836: It is Truck: lifling_capacity = 36, fuel_capasity = 17, fuel_consumption = 10. Distance = 1.7
+837: It is Truck: lifling_capacity = 972, fuel_capasity = 19, fuel_consumption = 11. Distance = 1.72727
+838: It is Truck: lifling_capacity = 1406, fuel_capasity = 19, fuel_consumption = 11. Distance = 1.72727
+839: It is Truck: lifling_capacity = 180, fuel_capasity = 19, fuel_consumption = 11. Distance = 1.72727
+840: It is Automobile: max speed = 67, fuel consumption = 9, fuel capasity = 16. Distance = 1.77778
+841: It is Automobile: max speed = 135, fuel consumption = 5, fuel capasity = 9. Distance = 1.8
+842: It is Bus: passenger capacity = 21, fuel_capasity = 9, fuel_consumption = 5. Distance = 1.8
+843: It is Bus: passenger capacity = 9, fuel_capasity = 18, fuel_consumption = 10. Distance = 1.8
+844: It is Truck: lifling_capacity = 1463, fuel_capasity = 20, fuel_consumption = 11. Distance = 1.81818
+845: It is Automobile: max speed = 112, fuel consumption = 11, fuel capasity = 20. Distance = 1.81818
+846: It is Truck: lifling_capacity = 286, fuel_capasity = 11, fuel_consumption = 6. Distance = 1.83333
+847: It is Automobile: max speed = 127, fuel consumption = 7, fuel capasity = 13. Distance = 1.85714
+848: It is Bus: passenger capacity = 12, fuel_capasity = 13, fuel_consumption = 7. Distance = 1.85714
+849: It is Bus: passenger capacity = 12, fuel_capasity = 15, fuel_consumption = 8. Distance = 1.875
+850: It is Truck: lifling_capacity = 2436, fuel_capasity = 15, fuel_consumption = 8. Distance = 1.875
+851: It is Truck: lifling_capacity = 1417, fuel_capasity = 17, fuel_consumption = 9. Distance = 1.88889
+852: It is Automobile: max speed = 102, fuel consumption = 10, fuel capasity = 19. Distance = 1.9
+853: It is Truck: lifling_capacity = 2362, fuel_capasity = 14, fuel_consumption = 7. Distance = 2
+854: It is Truck: lifling_capacity = 2677, fuel_capasity = 6, fuel_consumption = 3. Distance = 2
+855: It is Truck: lifling_capacity = 2784, fuel_capasity = 6, fuel_consumption = 3. Distance = 2
+856: It is Bus: passenger capacity = 21, fuel_capasity = 18, fuel_consumption = 9. Distance = 2
+857: It is Truck: lifling_capacity = 2719, fuel_capasity = 18, fuel_consumption = 9. Distance = 2
+858: It is Truck: lifling_capacity = 3531, fuel_capasity = 20, fuel_consumption = 10. Distance = 2
+859: It is Bus: passenger capacity = 1, fuel_capasity = 4, fuel_consumption = 2. Distance = 2
+860: It is Truck: lifling_capacity = 1241, fuel_capasity = 10, fuel_consumption = 5. Distance = 2
+861: It is Truck: lifling_capacity = 4768, fuel_capasity = 8, fuel_consumption = 4. Distance = 2
+862: It is Truck: lifling_capacity = 4034, fuel_capasity = 10, fuel_consumption = 5. Distance = 2
+863: It is Truck: lifling_capacity = 2585, fuel_capasity = 10, fuel_consumption = 5. Distance = 2
+864: It is Truck: lifling_capacity = 1201, fuel_capasity = 4, fuel_consumption = 2. Distance = 2
+865: It is Bus: passenger capacity = 16, fuel_capasity = 10, fuel_consumption = 5. Distance = 2
+866: It is Bus: passenger capacity = 11, fuel_capasity = 18, fuel_consumption = 9. Distance = 2
+867: It is Automobile: max speed = 61, fuel consumption = 9, fuel capasity = 18. Distance = 2
+868: It is Automobile: max speed = 19, fuel consumption = 2, fuel capasity = 4. Distance = 2
+869: It is Truck: lifling_capacity = 4856, fuel_capasity = 20, fuel_consumption = 10. Distance = 2
+870: It is Automobile: max speed = 157, fuel consumption = 4, fuel capasity = 8. Distance = 2
+871: It is Automobile: max speed = 27, fuel consumption = 6, fuel capasity = 12. Distance = 2
+872: It is Bus: passenger capacity = 20, fuel_capasity = 19, fuel_consumption = 9. Distance = 2.11111
+873: It is Automobile: max speed = 27, fuel consumption = 9, fuel capasity = 19. Distance = 2.11111
+874: It is Truck: lifling_capacity = 3383, fuel_capasity = 17, fuel_consumption = 8. Distance = 2.125
+875: It is Truck: lifling_capacity = 9, fuel_capasity = 17, fuel_consumption = 8. Distance = 2.125
+876: It is Bus: passenger capacity = 15, fuel_capasity = 13, fuel_consumption = 6. Distance = 2.16667
+877: It is Truck: lifling_capacity = 604, fuel_capasity = 13, fuel_consumption = 6. Distance = 2.16667
+878: It is Bus: passenger capacity = 7, fuel_capasity = 20, fuel_consumption = 9. Distance = 2.22222
+879: It is Automobile: max speed = 140, fuel consumption = 9, fuel capasity = 20. Distance = 2.22222
+880: It is Automobile: max speed = 187, fuel consumption = 9, fuel capasity = 20. Distance = 2.22222
+881: It is Truck: lifling_capacity = 4959, fuel_capasity = 9, fuel_consumption = 4. Distance = 2.25
+882: It is Bus: passenger capacity = 12, fuel_capasity = 18, fuel_consumption = 8. Distance = 2.25
+883: It is Bus: passenger capacity = 13, fuel_capasity = 16, fuel_consumption = 7. Distance = 2.28571
+884: It is Truck: lifling_capacity = 1939, fuel_capasity = 16, fuel_consumption = 7. Distance = 2.28571
+885: It is Truck: lifling_capacity = 2554, fuel_capasity = 16, fuel_consumption = 7. Distance = 2.28571
+886: It is Automobile: max speed = 38, fuel consumption = 6, fuel capasity = 14. Distance = 2.33333
+887: It is Bus: passenger capacity = 12, fuel_capasity = 14, fuel_consumption = 6. Distance = 2.33333
+888: It is Truck: lifling_capacity = 845, fuel_capasity = 7, fuel_consumption = 3. Distance = 2.33333
+889: It is Truck: lifling_capacity = 3484, fuel_capasity = 14, fuel_consumption = 6. Distance = 2.33333
+890: It is Truck: lifling_capacity = 2586, fuel_capasity = 20, fuel_consumption = 8. Distance = 2.5
+891: It is Automobile: max speed = 41, fuel consumption = 8, fuel capasity = 20. Distance = 2.5
+892: It is Bus: passenger capacity = 11, fuel_capasity = 10, fuel_consumption = 4. Distance = 2.5
+893: It is Bus: passenger capacity = 24, fuel_capasity = 15, fuel_consumption = 6. Distance = 2.5
+894: It is Truck: lifling_capacity = 242, fuel_capasity = 15, fuel_consumption = 6. Distance = 2.5
+895: It is Truck: lifling_capacity = 3422, fuel_capasity = 18, fuel_consumption = 7. Distance = 2.57143
+896: It is Truck: lifling_capacity = 3529, fuel_capasity = 18, fuel_consumption = 7. Distance = 2.57143
+897: It is Truck: lifling_capacity = 1933, fuel_capasity = 18, fuel_consumption = 7. Distance = 2.57143
+898: It is Truck: lifling_capacity = 3442, fuel_capasity = 16, fuel_consumption = 6. Distance = 2.66667
+899: It is Truck: lifling_capacity = 2125, fuel_capasity = 16, fuel_consumption = 6. Distance = 2.66667
+900: It is Truck: lifling_capacity = 3621, fuel_capasity = 16, fuel_consumption = 6. Distance = 2.66667
+901: It is Automobile: max speed = 125, fuel consumption = 6, fuel capasity = 16. Distance = 2.66667
+902: It is Truck: lifling_capacity = 4560, fuel_capasity = 16, fuel_consumption = 6. Distance = 2.66667
+903: It is Automobile: max speed = 161, fuel consumption = 7, fuel capasity = 19. Distance = 2.71429
+904: It is Truck: lifling_capacity = 1445, fuel_capasity = 19, fuel_consumption = 7. Distance = 2.71429
+905: It is Automobile: max speed = 160, fuel consumption = 7, fuel capasity = 19. Distance = 2.71429
+906: It is Truck: lifling_capacity = 3796, fuel_capasity = 19, fuel_consumption = 7. Distance = 2.71429
+907: It is Bus: passenger capacity = 17, fuel_capasity = 11, fuel_consumption = 4. Distance = 2.75
+908: It is Bus: passenger capacity = 16, fuel_capasity = 11, fuel_consumption = 4. Distance = 2.75
+909: It is Truck: lifling_capacity = 4219, fuel_capasity = 11, fuel_consumption = 4. Distance = 2.75
+910: It is Truck: lifling_capacity = 4710, fuel_capasity = 17, fuel_consumption = 6. Distance = 2.83333
+911: It is Truck: lifling_capacity = 1586, fuel_capasity = 20, fuel_consumption = 7. Distance = 2.85714
+912: It is Truck: lifling_capacity = 2626, fuel_capasity = 18, fuel_consumption = 6. Distance = 3
+913: It is Bus: passenger capacity = 29, fuel_capasity = 12, fuel_consumption = 4. Distance = 3
+914: It is Truck: lifling_capacity = 3047, fuel_capasity = 15, fuel_consumption = 5. Distance = 3
+915: It is Truck: lifling_capacity = 984, fuel_capasity = 6, fuel_consumption = 2. Distance = 3
+916: It is Truck: lifling_capacity = 1899, fuel_capasity = 3, fuel_consumption = 1. Distance = 3
+917: It is Automobile: max speed = 185, fuel consumption = 6, fuel capasity = 18. Distance = 3
+918: It is Automobile: max speed = 155, fuel consumption = 5, fuel capasity = 15. Distance = 3
+919: It is Truck: lifling_capacity = 894, fuel_capasity = 12, fuel_consumption = 4. Distance = 3
+920: It is Truck: lifling_capacity = 2498, fuel_capasity = 18, fuel_consumption = 6. Distance = 3
+921: It is Automobile: max speed = 84, fuel consumption = 6, fuel capasity = 19. Distance = 3.16667
+922: It is Truck: lifling_capacity = 1243, fuel_capasity = 19, fuel_consumption = 6. Distance = 3.16667
+923: It is Truck: lifling_capacity = 128, fuel_capasity = 19, fuel_consumption = 6. Distance = 3.16667
+924: It is Bus: passenger capacity = 26, fuel_capasity = 16, fuel_consumption = 5. Distance = 3.2
+925: It is Truck: lifling_capacity = 973, fuel_capasity = 10, fuel_consumption = 3. Distance = 3.33333
+926: It is Truck: lifling_capacity = 2247, fuel_capasity = 10, fuel_consumption = 3. Distance = 3.33333
+927: It is Automobile: max speed = 48, fuel consumption = 3, fuel capasity = 10. Distance = 3.33333
+928: It is Automobile: max speed = 19, fuel consumption = 5, fuel capasity = 17. Distance = 3.4
+929: It is Truck: lifling_capacity = 4924, fuel_capasity = 7, fuel_consumption = 2. Distance = 3.5
+930: It is Truck: lifling_capacity = 2256, fuel_capasity = 7, fuel_consumption = 2. Distance = 3.5
+931: It is Truck: lifling_capacity = 2952, fuel_capasity = 14, fuel_consumption = 4. Distance = 3.5
+932: It is Bus: passenger capacity = 1, fuel_capasity = 14, fuel_consumption = 4. Distance = 3.5
+933: It is Truck: lifling_capacity = 3012, fuel_capasity = 18, fuel_consumption = 5. Distance = 3.6
+934: It is Truck: lifling_capacity = 3348, fuel_capasity = 18, fuel_consumption = 5. Distance = 3.6
+935: It is Bus: passenger capacity = 5, fuel_capasity = 11, fuel_consumption = 3. Distance = 3.66667
+936: It is Truck: lifling_capacity = 4200, fuel_capasity = 15, fuel_consumption = 4. Distance = 3.75
+937: It is Bus: passenger capacity = 27, fuel_capasity = 19, fuel_consumption = 5. Distance = 3.8
+938: It is Truck: lifling_capacity = 1733, fuel_capasity = 19, fuel_consumption = 5. Distance = 3.8
+939: It is Truck: lifling_capacity = 3554, fuel_capasity = 12, fuel_consumption = 3. Distance = 4
+940: It is Truck: lifling_capacity = 2747, fuel_capasity = 8, fuel_consumption = 2. Distance = 4
+941: It is Truck: lifling_capacity = 888, fuel_capasity = 4, fuel_consumption = 1. Distance = 4
+942: It is Truck: lifling_capacity = 1487, fuel_capasity = 17, fuel_consumption = 4. Distance = 4.25
+943: It is Truck: lifling_capacity = 3185, fuel_capasity = 17, fuel_consumption = 4. Distance = 4.25
+944: It is Truck: lifling_capacity = 1098, fuel_capasity = 13, fuel_consumption = 3. Distance = 4.33333
+945: It is Automobile: max speed = 91, fuel consumption = 2, fuel capasity = 9. Distance = 4.5
+946: It is Automobile: max speed = 106, fuel consumption = 2, fuel capasity = 9. Distance = 4.5
+947: It is Automobile: max speed = 197, fuel consumption = 3, fuel capasity = 14. Distance = 4.66667
+948: It is Truck: lifling_capacity = 2322, fuel_capasity = 14, fuel_consumption = 3. Distance = 4.66667
+949: It is Truck: lifling_capacity = 2496, fuel_capasity = 19, fuel_consumption = 4. Distance = 4.75
+950: It is Truck: lifling_capacity = 4391, fuel_capasity = 15, fuel_consumption = 3. Distance = 5
+951: It is Truck: lifling_capacity = 1717, fuel_capasity = 10, fuel_consumption = 2. Distance = 5
+952: It is Truck: lifling_capacity = 254, fuel_capasity = 10, fuel_consumption = 2. Distance = 5
+953: It is Truck: lifling_capacity = 3157, fuel_capasity = 10, fuel_consumption = 2. Distance = 5
+954: It is Truck: lifling_capacity = 1423, fuel_capasity = 10, fuel_consumption = 2. Distance = 5
+955: It is Bus: passenger capacity = 16, fuel_capasity = 15, fuel_consumption = 3. Distance = 5
+956: It is Automobile: max speed = 21, fuel consumption = 2, fuel capasity = 11. Distance = 5.5
+957: It is Truck: lifling_capacity = 717, fuel_capasity = 11, fuel_consumption = 2. Distance = 5.5
+958: It is Automobile: max speed = 137, fuel consumption = 3, fuel capasity = 17. Distance = 5.66667
+959: It is Truck: lifling_capacity = 2006, fuel_capasity = 6, fuel_consumption = 1. Distance = 6
+960: It is Automobile: max speed = 9, fuel consumption = 3, fuel capasity = 18. Distance = 6
+961: It is Truck: lifling_capacity = 1701, fuel_capasity = 12, fuel_consumption = 2. Distance = 6
+962: It is Bus: passenger capacity = 5, fuel_capasity = 19, fuel_consumption = 3. Distance = 6.33333
+963: It is Truck: lifling_capacity = 2833, fuel_capasity = 13, fuel_consumption = 2. Distance = 6.5
+964: It is Bus: passenger capacity = 12, fuel_capasity = 13, fuel_consumption = 2. Distance = 6.5
+965: It is Truck: lifling_capacity = 3004, fuel_capasity = 13, fuel_consumption = 2. Distance = 6.5
+966: It is Automobile: max speed = 57, fuel consumption = 2, fuel capasity = 14. Distance = 7
+967: It is Truck: lifling_capacity = 2809, fuel_capasity = 7, fuel_consumption = 1. Distance = 7
+968: It is Bus: passenger capacity = 14, fuel_capasity = 7, fuel_consumption = 1. Distance = 7
+969: It is Truck: lifling_capacity = 2151, fuel_capasity = 15, fuel_consumption = 2. Distance = 7.5
+970: It is Automobile: max speed = 150, fuel consumption = 2, fuel capasity = 15. Distance = 7.5
+971: It is Bus: passenger capacity = 25, fuel_capasity = 15, fuel_consumption = 2. Distance = 7.5
+972: It is Truck: lifling_capacity = 4105, fuel_capasity = 16, fuel_consumption = 2. Distance = 8
+973: It is Truck: lifling_capacity = 4134, fuel_capasity = 8, fuel_consumption = 1. Distance = 8
+974: It is Truck: lifling_capacity = 4322, fuel_capasity = 17, fuel_consumption = 2. Distance = 8.5
+975: It is Truck: lifling_capacity = 1580, fuel_capasity = 18, fuel_consumption = 2. Distance = 9
+976: It is Bus: passenger capacity = 6, fuel_capasity = 18, fuel_consumption = 2. Distance = 9
+977: It is Truck: lifling_capacity = 2988, fuel_capasity = 20, fuel_consumption = 2. Distance = 10
+978: It is Automobile: max speed = 149, fuel consumption = 1, fuel capasity = 10. Distance = 10
+979: It is Bus: passenger capacity = 24, fuel_capasity = 10, fuel_consumption = 1. Distance = 10
+980: It is Automobile: max speed = 185, fuel consumption = 1, fuel capasity = 10. Distance = 10
+981: It is Truck: lifling_capacity = 910, fuel_capasity = 20, fuel_consumption = 2. Distance = 10
+982: It is Bus: passenger capacity = 28, fuel_capasity = 11, fuel_consumption = 1. Distance = 11
+983: It is Truck: lifling_capacity = 4941, fuel_capasity = 12, fuel_consumption = 1. Distance = 12
+984: It is Truck: lifling_capacity = 2536, fuel_capasity = 12, fuel_consumption = 1. Distance = 12
+985: It is Truck: lifling_capacity = 1915, fuel_capasity = 12, fuel_consumption = 1. Distance = 12
+986: It is Bus: passenger capacity = 10, fuel_capasity = 13, fuel_consumption = 1. Distance = 13
+987: It is Automobile: max speed = 37, fuel consumption = 1, fuel capasity = 13. Distance = 13
+988: It is Truck: lifling_capacity = 1686, fuel_capasity = 14, fuel_consumption = 1. Distance = 14
+989: It is Automobile: max speed = 183, fuel consumption = 1, fuel capasity = 14. Distance = 14
+990: It is Bus: passenger capacity = 15, fuel_capasity = 14, fuel_consumption = 1. Distance = 14
+991: It is Bus: passenger capacity = 19, fuel_capasity = 15, fuel_consumption = 1. Distance = 15
+992: It is Truck: lifling_capacity = 1532, fuel_capasity = 15, fuel_consumption = 1. Distance = 15
+993: It is Truck: lifling_capacity = 392, fuel_capasity = 15, fuel_consumption = 1. Distance = 15
+994: It is Truck: lifling_capacity = 4331, fuel_capasity = 18, fuel_consumption = 1. Distance = 18
+995: It is Automobile: max speed = 42, fuel consumption = 1, fuel capasity = 18. Distance = 18
+996: It is Truck: lifling_capacity = 1654, fuel_capasity = 18, fuel_consumption = 1. Distance = 18
+997: It is Truck: lifling_capacity = 4142, fuel_capasity = 19, fuel_consumption = 1. Distance = 19
+998: It is Bus: passenger capacity = 4, fuel_capasity = 20, fuel_consumption = 1. Distance = 20
+999: It is Automobile: max speed = 107, fuel consumption = 1, fuel capasity = 20. Distance = 20
